@@ -1,0 +1,68 @@
+{
+  "mirmania": {
+    "primary": "#ffab00",
+    "secondary": "#3f4ea6",
+    "tertiary": "#FFFFFF",
+    "pattern": "solid"
+  },
+  "kentimbo": {
+    "primary": "#93c1e7",
+    "secondary": "#2b2f3a",
+    "tertiary": "#FFFFFF",
+    "pattern": "solid"
+  },
+  "zirmagna": {
+    "primary": "#5fa021",
+    "secondary": "#fbdd57",
+    "tertiary": "#FFFFFF",
+    "pattern": "solid"
+  },
+  "alartela": {
+    "primary": "#4a76d4",
+    "secondary": null,
+    "tertiary": "#FFFFFF",
+    "pattern": "solid"
+  },
+  "pasburgo": {
+    "primary": "#3f4ea6",
+    "secondary": "#fc4a5a",
+    "tertiary": "#FFFFFF",
+    "pattern": "checkerboard"
+  },
+  "jopan": {
+    "primary": "#fbdd57",
+    "secondary": null,
+    "tertiary": "#FFFFFF",
+    "pattern": "solid"
+  },
+  "liconia": {
+    "primary": "#7a2233",
+    "secondary": null,
+    "tertiary": "#FFFFFF",
+    "pattern": "solid"
+  },
+  "everia": {
+    "primary": "#fbdd57",
+    "secondary": "#3f4ea6",
+    "tertiary": "#FFFFFF",
+    "pattern": "checkerboard"
+  },
+  "razu": {
+    "primary": "#fc4a5a",
+    "secondary": "#3f4ea6",
+    "tertiary": "#FFFFFF",
+    "pattern": "vertical_stripes"
+  },
+  "baigorria": {
+    "primary": "#fbdd57",
+    "secondary": "#7cb305",
+    "tertiary": "#FFFFFF",
+    "pattern": "solid"
+  },
+  "paltia": {
+    "primary": "#484a5c",
+    "secondary": "#fbdd57",
+    "tertiary": "#FFFFFF",
+    "pattern": "diagonal_sash"
+  }
+}

@@ -1,0 +1,3627 @@
+{
+  "paises": [
+    {
+      "slug": "mirmania",
+      "nombre": "Mirmania",
+      "bandera": "assets/flags/mirmania.svg",
+      "divisiones": [
+        {
+          "nivel": 1,
+          "nombre": "Mirmanian League - 1st Division",
+          "clubes": [
+            {
+              "slug": "athletic-club-rossonero",
+              "nombre": "Athletic Club Rossonero",
+              "ciudad": "Vichencia",
+              "estadio": "Rossodromo",
+              "capacidad": 20000,
+              "fundacion": null,
+              "plantel": 23,
+              "ovr": 72,
+              "valorMercado": 425700000
+            },
+            {
+              "slug": "atletico-de-vichenzo",
+              "nombre": "Atlético De Vichenzo",
+              "ciudad": "Vichencia",
+              "estadio": "San Polinómico",
+              "capacidad": 95000,
+              "fundacion": null,
+              "plantel": 22,
+              "ovr": 81,
+              "valorMercado": 1464000000
+            },
+            {
+              "slug": "buwling-sports-association",
+              "nombre": "Buwling Sports Association",
+              "ciudad": "Raziel",
+              "estadio": "Louis Buwling",
+              "capacidad": 33000,
+              "fundacion": null,
+              "plantel": 22,
+              "ovr": 68,
+              "valorMercado": 166400000
+            },
+            {
+              "slug": "deportive-inquisition",
+              "nombre": "Deportive Inquisition",
+              "ciudad": "Ferelden",
+              "estadio": "Skyfall",
+              "capacidad": 41000,
+              "fundacion": null,
+              "plantel": 22,
+              "ovr": 69,
+              "valorMercado": 189580000
+            },
+            {
+              "slug": "east-harmon-football-club",
+              "nombre": "East Harmon Football Club",
+              "ciudad": "Harmon",
+              "estadio": "Etiharmon Stadium",
+              "capacidad": 50000,
+              "fundacion": "1 de agosto de 1913",
+              "plantel": 22,
+              "ovr": 76,
+              "valorMercado": 660000000
+            },
+            {
+              "slug": "everdehb-football-club",
+              "nombre": "Everdehb Football Club",
+              "ciudad": "Aidkoven",
+              "estadio": "Saint-Dypherm",
+              "capacidad": 50000,
+              "fundacion": "18 de febrero de 1928",
+              "plantel": 19,
+              "ovr": 80,
+              "valorMercado": 955000000
+            },
+            {
+              "slug": "golden-river",
+              "nombre": "Golden River",
+              "ciudad": "Aidkoven",
+              "estadio": "Oblinfox Stadium",
+              "capacidad": 65000,
+              "fundacion": "28 de septiembre de 1898",
+              "plantel": 19,
+              "ovr": 77,
+              "valorMercado": 1207200000
+            },
+            {
+              "slug": "hearthstone-football-club",
+              "nombre": "Hearthstone Football Club",
+              "ciudad": "Ferelden",
+              "estadio": "Estadio Lord Antonidas",
+              "capacidad": 32000,
+              "fundacion": null,
+              "plantel": 22,
+              "ovr": 68,
+              "valorMercado": 137800000
+            },
+            {
+              "slug": "homirp-wedvisch-fussball-club",
+              "nombre": "Homirp Wedvisch Fussball-Club",
+              "ciudad": "Wedvisch",
+              "estadio": "Ing. Arnim Metz",
+              "capacidad": 32400,
+              "fundacion": "4 de agosto de 1930",
+              "plantel": 23,
+              "ovr": 75,
+              "valorMercado": 702070000
+            },
+            {
+              "slug": "kingdom-united",
+              "nombre": "Kingdom United",
+              "ciudad": "Ferelden",
+              "estadio": "Hearts Stadium",
+              "capacidad": 47500,
+              "fundacion": null,
+              "plantel": 20,
+              "ovr": 71,
+              "valorMercado": 390850000
+            },
+            {
+              "slug": "leyrecse-football-club",
+              "nombre": "Leyrecse Football Club",
+              "ciudad": "Raziel",
+              "estadio": "Raziel Park",
+              "capacidad": 41000,
+              "fundacion": "10 de octubre de 1900",
+              "plantel": 21,
+              "ovr": 79,
+              "valorMercado": 1020700000
+            },
+            {
+              "slug": "rakein-s-f",
+              "nombre": "Rakein S.F.",
+              "ciudad": "Raziel",
+              "estadio": "Raziel State",
+              "capacidad": 118000,
+              "fundacion": null,
+              "plantel": 21,
+              "ovr": 82,
+              "valorMercado": 1675000000
+            },
+            {
+              "slug": "sporting-club-den-brask",
+              "nombre": "Sporting Club Den Brask",
+              "ciudad": "Wedvisch",
+              "estadio": "Parker Patterson",
+              "capacidad": 37000,
+              "fundacion": "17 de junio de 1929",
+              "plantel": 19,
+              "ovr": 75,
+              "valorMercado": 391000000
+            },
+            {
+              "slug": "sporting-conquerors",
+              "nombre": "Sporting Conquerors",
+              "ciudad": "Ferelden",
+              "estadio": "Big Empire",
+              "capacidad": 25000,
+              "fundacion": "4 de mayo de 1925",
+              "plantel": 22,
+              "ovr": 73,
+              "valorMercado": 548200000
+            },
+            {
+              "slug": "uppletton-city",
+              "nombre": "Uppletton City",
+              "ciudad": "Uppletton",
+              "estadio": "Bamford Bridge",
+              "capacidad": 32000,
+              "fundacion": "13 de septiembre de 1909",
+              "plantel": 21,
+              "ovr": 70,
+              "valorMercado": 296400000
+            },
+            {
+              "slug": "uppletton-united",
+              "nombre": "Uppletton United",
+              "ciudad": "Uppletton",
+              "estadio": "Bamford Bridge",
+              "capacidad": 32000,
+              "fundacion": "27 de septiembre de 1904",
+              "plantel": 21,
+              "ovr": 71,
+              "valorMercado": 279600000
+            },
+            {
+              "slug": "villa-cerdona-club-de-futbol",
+              "nombre": "Villa Cerdoña Club de Fútbol",
+              "ciudad": "Cerdoña",
+              "estadio": "Cerdoña Camp",
+              "capacidad": 38000,
+              "fundacion": "29 de noviembre de 1899",
+              "plantel": 22,
+              "ovr": 72,
+              "valorMercado": 402700000
+            },
+            {
+              "slug": "wallhoom-city-club",
+              "nombre": "Wallhoom City Club",
+              "ciudad": "Wallhoom",
+              "estadio": "WH Park",
+              "capacidad": 45000,
+              "fundacion": "27 de febrero de 1905",
+              "plantel": 23,
+              "ovr": 74,
+              "valorMercado": 504800000
+            },
+            {
+              "slug": "west-harmon-city",
+              "nombre": "West Harmon City",
+              "ciudad": "Harmon",
+              "estadio": "Old Villamon",
+              "capacidad": 76000,
+              "fundacion": "15 de abril de 1895",
+              "plantel": 17,
+              "ovr": 80,
+              "valorMercado": 1228200000
+            },
+            {
+              "slug": "zephyr-sporting-club",
+              "nombre": "Zephyr Sporting Club",
+              "ciudad": "Ferelden",
+              "estadio": "Sir Aletardo",
+              "capacidad": 18000,
+              "fundacion": "29 de mayo de 2017",
+              "plantel": 20,
+              "ovr": 68,
+              "valorMercado": 114900000
+            }
+          ]
+        },
+        {
+          "nivel": 2,
+          "nombre": "Mirmanian Championship - 2nd Division",
+          "clubes": [
+            {
+              "slug": "02-points-football-club",
+              "nombre": "02 Points Football Club",
+              "ciudad": "Wedvisch",
+              "estadio": "02 Arena",
+              "capacidad": 20500,
+              "fundacion": "5 de agosto de 1978",
+              "plantel": null,
+              "ovr": 62,
+              "valorMercado": 25920000
+            },
+            {
+              "slug": "ahtletic-mine",
+              "nombre": "Ahtletic Mine",
+              "ciudad": "Harmon",
+              "estadio": "Cavetown Mine",
+              "capacidad": 25000,
+              "fundacion": "25 de octubre de 1933",
+              "plantel": null,
+              "ovr": 64,
+              "valorMercado": 41160000
+            },
+            {
+              "slug": "associacione-sportiva-anglica",
+              "nombre": "Associacione Sportiva Anglica",
+              "ciudad": "Zerigolia",
+              "estadio": "Marcio Veratta",
+              "capacidad": 33000,
+              "fundacion": "25 de noviembre de 1930",
+              "plantel": null,
+              "ovr": 59,
+              "valorMercado": 10935000
+            },
+            {
+              "slug": "atletico-villagres",
+              "nombre": "Atlético Villagrés",
+              "ciudad": "Cerdoña",
+              "estadio": "Pedri Benixto",
+              "capacidad": 21000,
+              "fundacion": "7 de octubre de 1948",
+              "plantel": null,
+              "ovr": 63,
+              "valorMercado": 32955000
+            },
+            {
+              "slug": "black-thieves",
+              "nombre": "Black Thieves",
+              "ciudad": "Ferelden",
+              "estadio": "Wild Sea",
+              "capacidad": 34800,
+              "fundacion": "7 de abril de 1952",
+              "plantel": null,
+              "ovr": 62,
+              "valorMercado": 25920000
+            },
+            {
+              "slug": "borussia-wedvisch-07",
+              "nombre": "Borussia Wedvisch 07",
+              "ciudad": "Wedvisch",
+              "estadio": "Wedvischstadion",
+              "capacidad": 32000,
+              "fundacion": "19 de diciembre de 1909",
+              "plantel": null,
+              "ovr": 67,
+              "valorMercado": 73695000
+            },
+            {
+              "slug": "chertleton-athletic",
+              "nombre": "Chertleton Athletic",
+              "ciudad": "Harmon",
+              "estadio": "MPFF Stadium",
+              "capacidad": 28500,
+              "fundacion": "12 de marzo de 1922",
+              "plantel": null,
+              "ovr": 59,
+              "valorMercado": 10935000
+            },
+            {
+              "slug": "clube-desportivo-santa-delia",
+              "nombre": "Clube Desportivo Santa Delia",
+              "ciudad": "Zerigolia",
+              "estadio": "Estadio de San Darris",
+              "capacidad": 25800,
+              "fundacion": "23 de agosto de 1955",
+              "plantel": null,
+              "ovr": 57,
+              "valorMercado": 5145000
+            },
+            {
+              "slug": "deportivo-cerdona-de-futbol",
+              "nombre": "Deportivo Cerdoña de Fútbol",
+              "ciudad": "Cerdoña",
+              "estadio": "Santino Benebé",
+              "capacidad": 32000,
+              "fundacion": "6 de marzo de 1902",
+              "plantel": null,
+              "ovr": 65,
+              "valorMercado": 50625000
+            },
+            {
+              "slug": "dream-football-association",
+              "nombre": "Dream Football Association",
+              "ciudad": "Wallhoom",
+              "estadio": "Dreamest State",
+              "capacidad": 28200,
+              "fundacion": "29 de junio de 1980",
+              "plantel": null,
+              "ovr": 59,
+              "valorMercado": 10935000
+            },
+            {
+              "slug": "farelden-03",
+              "nombre": "Farelden 03",
+              "ciudad": "Ferelden",
+              "estadio": "Marek Schamburgesen",
+              "capacidad": 19000,
+              "fundacion": "5 de abril de 1903",
+              "plantel": null,
+              "ovr": 65,
+              "valorMercado": 50625000
+            },
+            {
+              "slug": "futbol-club-ezube",
+              "nombre": "Futbol Club Ezube",
+              "ciudad": "Ezube",
+              "estadio": "Estadio de la Hermandad",
+              "capacidad": 22500,
+              "fundacion": "20 de octubre de 1929",
+              "plantel": null,
+              "ovr": 65,
+              "valorMercado": 50625000
+            },
+            {
+              "slug": "juventude-mirmanessa",
+              "nombre": "Juventude Mirmanessa",
+              "ciudad": "Zerigolia",
+              "estadio": "iL Templo",
+              "capacidad": 20000,
+              "fundacion": "8 de julio de 1950",
+              "plantel": null,
+              "ovr": 59,
+              "valorMercado": 10935000
+            },
+            {
+              "slug": "perkis-football-club",
+              "nombre": "Perkis Football Club",
+              "ciudad": "Taluesse",
+              "estadio": "Narkis Camp",
+              "capacidad": 36000,
+              "fundacion": "29 de enero de 1957",
+              "plantel": null,
+              "ovr": 60,
+              "valorMercado": 15000000
+            },
+            {
+              "slug": "sport-club-kodemburn",
+              "nombre": "Sport-Club Kodemburn",
+              "ciudad": "Aidkoven",
+              "estadio": "Herdtwoldstadion",
+              "capacidad": 31200,
+              "fundacion": "17 de junio de 1938",
+              "plantel": null,
+              "ovr": 59,
+              "valorMercado": 10935000
+            },
+            {
+              "slug": "sporting-toluao",
+              "nombre": "Sporting Toluao",
+              "ciudad": "Taluesse",
+              "estadio": "Toluao Park",
+              "capacidad": 27000,
+              "fundacion": "10 de noviembre de 1945",
+              "plantel": null,
+              "ovr": 64,
+              "valorMercado": 41160000
+            },
+            {
+              "slug": "sportiv-taluesse",
+              "nombre": "Sportiv Taluesse",
+              "ciudad": "Taluesse",
+              "estadio": "Olympic Biergastaluesse",
+              "capacidad": 25000,
+              "fundacion": "12 de diciembre de 1962",
+              "plantel": null,
+              "ovr": 58,
+              "valorMercado": 7680000
+            },
+            {
+              "slug": "vereniging-voetbal-greefschip",
+              "nombre": "Vereniging Voetbal Greefschip",
+              "ciudad": "Ferelden",
+              "estadio": "Estadio de Gaossult",
+              "capacidad": 27000,
+              "fundacion": "19 de febrero de 1964",
+              "plantel": null,
+              "ovr": 62,
+              "valorMercado": 25920000
+            },
+            {
+              "slug": "wallhoom-villa-football-club",
+              "nombre": "Wallhoom Villa Football Club",
+              "ciudad": "Wallhoom",
+              "estadio": "Villa Staduim",
+              "capacidad": 34000,
+              "fundacion": "21 de noviembre de 1874",
+              "plantel": null,
+              "ovr": 61,
+              "valorMercado": 19965000
+            },
+            {
+              "slug": "weberh-united",
+              "nombre": "Weberh United",
+              "ciudad": "Wedvisch",
+              "estadio": "Weberhville",
+              "capacidad": 20000,
+              "fundacion": "12 de enero de 1928",
+              "plantel": null,
+              "ovr": 57,
+              "valorMercado": 5145000
+            },
+            {
+              "slug": "nerazzurri-football-club",
+              "nombre": "Nerazzurri Football Club",
+              "ciudad": "Vichencia",
+              "estadio": "Giuseppe Miasa",
+              "capacidad": 20000,
+              "fundacion": null,
+              "plantel": null,
+              "ovr": 60,
+              "valorMercado": 15000000
+            },
+            {
+              "slug": "mirmanian-gunners",
+              "nombre": "Mirmanian Gunners",
+              "ciudad": null,
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": null,
+              "plantel": null,
+              "ovr": 57,
+              "valorMercado": 5145000
+            },
+            {
+              "slug": "mirmanian-spurs",
+              "nombre": "Mirmanian Spurs",
+              "ciudad": null,
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": null,
+              "plantel": null,
+              "ovr": 58,
+              "valorMercado": 7680000
+            },
+            {
+              "slug": "zen-f-c",
+              "nombre": "Zen F.C",
+              "ciudad": null,
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": null,
+              "plantel": null,
+              "ovr": 67,
+              "valorMercado": 73695000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "kentimbo",
+      "nombre": "Kentimbo",
+      "bandera": "assets/flags/kentimbo.svg",
+      "divisiones": [
+        {
+          "nivel": 1,
+          "nombre": "Primera división kentimbiana",
+          "clubes": [
+            {
+              "slug": "altardez-verdi-rojo",
+              "nombre": "Altardez Verdi-Rojo",
+              "ciudad": "Altardez, Maltania",
+              "estadio": "Tardío Verdi-Rojo",
+              "capacidad": 38500,
+              "fundacion": "16 de enero de 1972",
+              "plantel": null,
+              "ovr": 75,
+              "valorMercado": 578100000
+            },
+            {
+              "slug": "asociacion-alburgo-de-kentucky",
+              "nombre": "Asociación Alburgo de Kentucky",
+              "ciudad": "Alburgo, Kentucky",
+              "estadio": "Central Alburgo",
+              "capacidad": 40000,
+              "fundacion": "7 de julio de 1918",
+              "plantel": null,
+              "ovr": 75,
+              "valorMercado": 546000000
+            },
+            {
+              "slug": "asociacion-alburgo-de-maltania",
+              "nombre": "Asociación Alburgo de Maltania",
+              "ciudad": "Ciudad de Maltania, Maltania",
+              "estadio": "Central Alburgo de Maltania",
+              "capacidad": 17200,
+              "fundacion": "20 de diciembre de 2010",
+              "plantel": null,
+              "ovr": 69,
+              "valorMercado": 147890000
+            },
+            {
+              "slug": "athletic-club-tigers",
+              "nombre": "Athletic Club Tigers",
+              "ciudad": "New Tigers, New Tigers",
+              "estadio": "Estadio Germán Legerson",
+              "capacidad": 72000,
+              "fundacion": "26 de diciembre de 1908",
+              "plantel": null,
+              "ovr": 82,
+              "valorMercado": 1504800000
+            },
+            {
+              "slug": "black-dragons-futbol-club",
+              "nombre": "Black Dragons Fútbol Club",
+              "ciudad": "Ciudad Dragón, New Tigers",
+              "estadio": "Estadio De Pachuqui",
+              "capacidad": 52000,
+              "fundacion": "8 de julio 1940",
+              "plantel": null,
+              "ovr": 78,
+              "valorMercado": 1031000000
+            },
+            {
+              "slug": "breffud-club-de-futbol",
+              "nombre": "Breffud Club de Fútbol",
+              "ciudad": "Robledo Este, Islas Miltrán",
+              "estadio": "Comandante Breffud",
+              "capacidad": 48000,
+              "fundacion": "4 de mayo de 1915",
+              "plantel": null,
+              "ovr": 76,
+              "valorMercado": 550000000
+            },
+            {
+              "slug": "chambo-futbol-club",
+              "nombre": "Chambo Fútbol Club",
+              "ciudad": "Los Campos, Islas Miltrán",
+              "estadio": "Nacional de Isla Miltrán",
+              "capacidad": 83200,
+              "fundacion": "8 de septiembre de 1905",
+              "plantel": null,
+              "ovr": 80,
+              "valorMercado": 1198000000
+            },
+            {
+              "slug": "club-atletico-akatsuki",
+              "nombre": "Club Atlético Akatsuki",
+              "ciudad": "Konoha, New Tigers",
+              "estadio": "General Uchiha",
+              "capacidad": 45000,
+              "fundacion": "5 de noviembre 1928",
+              "plantel": null,
+              "ovr": 74,
+              "valorMercado": 494480000
+            },
+            {
+              "slug": "club-atletico-gatunos",
+              "nombre": "Club Atlético Gatunos",
+              "ciudad": "Gatovilla, New Tigers",
+              "estadio": "Estadio Whiskas",
+              "capacidad": 21000,
+              "fundacion": "12 de marzo de 1952",
+              "plantel": null,
+              "ovr": 75,
+              "valorMercado": 571000000
+            },
+            {
+              "slug": "club-atletico-lions",
+              "nombre": "Club Atlético Lions",
+              "ciudad": "Ciudad de Maltania, Maltania",
+              "estadio": "C.A.L. Arena",
+              "capacidad": 78000,
+              "fundacion": "21 de mayo de 1908",
+              "plantel": null,
+              "ovr": 80,
+              "valorMercado": 1209000000
+            },
+            {
+              "slug": "club-atletico-perrunos",
+              "nombre": "Club Atlético Perrunos",
+              "ciudad": "Perrovilla, New Tigers",
+              "estadio": "Estadio Dog Chow",
+              "capacidad": 25000,
+              "fundacion": "15 de septiembre 1936",
+              "plantel": null,
+              "ovr": 74,
+              "valorMercado": 631500000
+            },
+            {
+              "slug": "club-atletico-pescopagano",
+              "nombre": "Club Atlético Pescopagano",
+              "ciudad": "Hitletania, Hitletania",
+              "estadio": "Estadio Juan Domingo Perón",
+              "capacidad": 50000,
+              "fundacion": "17 de octubre de 1918",
+              "plantel": null,
+              "ovr": 75,
+              "valorMercado": 776400000
+            },
+            {
+              "slug": "club-atletico-pochoclo",
+              "nombre": "Club Atlético Pochoclo",
+              "ciudad": "Pochocla, Kentucky",
+              "estadio": "Leonardo Bertucci",
+              "capacidad": 40000,
+              "fundacion": "22 de mayo de 1915",
+              "plantel": null,
+              "ovr": 75,
+              "valorMercado": 402900000
+            },
+            {
+              "slug": "club-atletico-sarpag",
+              "nombre": "Club Atlético Sarpag",
+              "ciudad": "Sarpag, Islas Miltrán",
+              "estadio": "J.J. Altamirano",
+              "capacidad": 33200,
+              "fundacion": "29 de enero de 1908",
+              "plantel": null,
+              "ovr": 76,
+              "valorMercado": 537000000
+            },
+            {
+              "slug": "c-d-miralbueno",
+              "nombre": "C.D. Miralbueno",
+              "ciudad": "Miralbueno, Hitletania",
+              "estadio": "Estadio Miralbueno",
+              "capacidad": 40500,
+              "fundacion": "10 de enero de 1915",
+              "plantel": null,
+              "ovr": 69,
+              "valorMercado": 192000000
+            },
+            {
+              "slug": "deportivo-zorura",
+              "nombre": "Deportivo Zorura",
+              "ciudad": "Zorura, Kentucky",
+              "estadio": "José Zorura",
+              "capacidad": 31400,
+              "fundacion": "28 de julio de 1930",
+              "plantel": null,
+              "ovr": 68,
+              "valorMercado": 156200000
+            },
+            {
+              "slug": "dintra-ferdinand-kazem",
+              "nombre": "Dintra Ferdinand Kazem",
+              "ciudad": "Crazeno, Maltania",
+              "estadio": "Stadion",
+              "capacidad": 42000,
+              "fundacion": "14 de junio de 1911",
+              "plantel": null,
+              "ovr": 69,
+              "valorMercado": 120280000
+            },
+            {
+              "slug": "fieshida-futbol-club",
+              "nombre": "Fieshida Fútbol Club",
+              "ciudad": "Fieshidonia, Maltania",
+              "estadio": "Estadio Fieshidonia",
+              "capacidad": 43200,
+              "fundacion": "24 de julio de 1929",
+              "plantel": null,
+              "ovr": 73,
+              "valorMercado": 386460000
+            },
+            {
+              "slug": "kentucky-futbol-club",
+              "nombre": "Kentucky Fútbol Club",
+              "ciudad": "Kentucky, Kentucky",
+              "estadio": "Fabricio A. Faccelo",
+              "capacidad": 65500,
+              "fundacion": "18 de agosto de 1908",
+              "plantel": null,
+              "ovr": 80,
+              "valorMercado": 984000000
+            },
+            {
+              "slug": "liberty-club-de-futbol",
+              "nombre": "Liberty Club de Fútbol",
+              "ciudad": "Robledo Oeste, Islas Miltrán",
+              "estadio": "Estadio Libertad",
+              "capacidad": 60000,
+              "fundacion": "6 de enero de 1915",
+              "plantel": null,
+              "ovr": 80,
+              "valorMercado": 1140900000
+            }
+          ]
+        },
+        {
+          "nivel": 2,
+          "nombre": "Segunda división kentimbiana",
+          "clubes": [
+            {
+              "slug": "atletico-puerto-carreno",
+              "nombre": "Atlético Puerto Carreño",
+              "ciudad": "Kentucky, Kentucky",
+              "estadio": "Polideportivo Puerto Carreño",
+              "capacidad": 30000,
+              "fundacion": "27 de enero de 1970",
+              "plantel": null,
+              "ovr": 62,
+              "valorMercado": 65860000
+            },
+            {
+              "slug": "avellan-futbol-club",
+              "nombre": "Avellán Fútbol Club",
+              "ciudad": "Maizales, Islas Miltrán",
+              "estadio": "D. Puglietta (\"El Maizal\")",
+              "capacidad": 35000,
+              "fundacion": "3 de mayo de 1919",
+              "plantel": null,
+              "ovr": 66,
+              "valorMercado": 41490000
+            },
+            {
+              "slug": "bangresal",
+              "nombre": "Bangresal",
+              "ciudad": "20 de Marzo, Hitletania",
+              "estadio": "Estadio Rodolfo Bangresal",
+              "capacidad": 18000,
+              "fundacion": null,
+              "plantel": null,
+              "ovr": 61,
+              "valorMercado": 19965000
+            },
+            {
+              "slug": "clinmberlech",
+              "nombre": "Clinmberlech",
+              "ciudad": "Clinmberlech, Maltania",
+              "estadio": "Coloso de Kentimbo",
+              "capacidad": null,
+              "fundacion": null,
+              "plantel": null,
+              "ovr": 62,
+              "valorMercado": 25920000
+            },
+            {
+              "slug": "club-atletico-chilia",
+              "nombre": "Club Atlético Chilia",
+              "ciudad": "Chilia, Kentucky",
+              "estadio": "Carlos B. López",
+              "capacidad": 25000,
+              "fundacion": "14 de octubre de 1932",
+              "plantel": null,
+              "ovr": 61,
+              "valorMercado": 36400000
+            },
+            {
+              "slug": "club-atletico-evalevia",
+              "nombre": "Club Atlético Evalevia",
+              "ciudad": "Evalevia, Kentucky",
+              "estadio": "Antonio Aleva",
+              "capacidad": 18500,
+              "fundacion": "17 de marzo de 1940",
+              "plantel": null,
+              "ovr": 59,
+              "valorMercado": 10935000
+            },
+            {
+              "slug": "club-atletico-miltran",
+              "nombre": "Club Atlético Miltrán",
+              "ciudad": "Isla Vieja, Islas Miltrán",
+              "estadio": "Tablón de la Rivera",
+              "capacidad": 29000,
+              "fundacion": "9 de junio de 1898",
+              "plantel": null,
+              "ovr": 62,
+              "valorMercado": 71500000
+            },
+            {
+              "slug": "club-atletico-saint-thomas",
+              "nombre": "Club Atlético Saint Thomas",
+              "ciudad": "Surlaurus, Islas Miltrán",
+              "estadio": "Doctor Googol",
+              "capacidad": 14000,
+              "fundacion": "2 de febrero de 1980",
+              "plantel": null,
+              "ovr": 61,
+              "valorMercado": 63340000
+            },
+            {
+              "slug": "club-social-y-deportivo-dinamo",
+              "nombre": "Club Social y Deportivo Dinamo",
+              "ciudad": "Kentucky, Kentucky",
+              "estadio": "Único de Kentucky",
+              "capacidad": 32000,
+              "fundacion": null,
+              "plantel": null,
+              "ovr": 60,
+              "valorMercado": 40050000
+            },
+            {
+              "slug": "deportivo-internacional",
+              "nombre": "Deportivo Internacional",
+              "ciudad": "Himmler, Hitletania",
+              "estadio": "Estadio Nacional Himmler",
+              "capacidad": 34000,
+              "fundacion": null,
+              "plantel": null,
+              "ovr": 61,
+              "valorMercado": 37910000
+            },
+            {
+              "slug": "emkatsu",
+              "nombre": "Emkatsú",
+              "ciudad": "Karsudo, Hitletania",
+              "estadio": "Estadio Emkatsú",
+              "capacidad": 35000,
+              "fundacion": null,
+              "plantel": null,
+              "ovr": 58,
+              "valorMercado": 9540000
+            },
+            {
+              "slug": "eslora",
+              "nombre": "Eslora",
+              "ciudad": "Ancora, Islas Miltrán",
+              "estadio": "Luis Magdano (\"El Astillero\")",
+              "capacidad": 18700,
+              "fundacion": "20 de diciembre de 1925",
+              "plantel": null,
+              "ovr": 58,
+              "valorMercado": 7680000
+            },
+            {
+              "slug": "georgeus-futbol-club",
+              "nombre": "Georgeus Fútbol Club",
+              "ciudad": "Estebio, Maltania",
+              "estadio": "Stadio Georgio Di Votto",
+              "capacidad": 41250,
+              "fundacion": "23 de agosto de 1929",
+              "plantel": null,
+              "ovr": 60,
+              "valorMercado": 15000000
+            },
+            {
+              "slug": "las-piedras-futbol-club",
+              "nombre": "Las Piedras Fútbol Club",
+              "ciudad": "Bedrock, Hitletania",
+              "estadio": "Estadio Minería",
+              "capacidad": 15500,
+              "fundacion": null,
+              "plantel": null,
+              "ovr": 60,
+              "valorMercado": 13470000
+            },
+            {
+              "slug": "ligero",
+              "nombre": "Ligero",
+              "ciudad": "Ligestina, New Tigers",
+              "estadio": "Estadio Ligestina",
+              "capacidad": 16000,
+              "fundacion": "24 de octubre de 1965",
+              "plantel": null,
+              "ovr": 65,
+              "valorMercado": 50625000
+            },
+            {
+              "slug": "magerios-futbol-club",
+              "nombre": "Magerios Fútbol Club",
+              "ciudad": "Estebio, Maltania",
+              "estadio": "Stadio Georgio Di Votto",
+              "capacidad": 41250,
+              "fundacion": "8 de enero de 1933",
+              "plantel": null,
+              "ovr": 62,
+              "valorMercado": 29500000
+            },
+            {
+              "slug": "pensiste-futbol-club",
+              "nombre": "Pensiste Fútbol Club",
+              "ciudad": "Pensilvania, New Tigers",
+              "estadio": "Estadio Lunar",
+              "capacidad": 12580,
+              "fundacion": "13 de abril de 1947",
+              "plantel": null,
+              "ovr": 65,
+              "valorMercado": 171990000
+            },
+            {
+              "slug": "punta-bergocha-futbol-club",
+              "nombre": "Punta Bergocha Fútbol Club",
+              "ciudad": "Maltania, Maltania",
+              "estadio": "Estadio Bergocha",
+              "capacidad": 12500,
+              "fundacion": "7 de noviembre de 2003",
+              "plantel": null,
+              "ovr": 56,
+              "valorMercado": 8100000
+            },
+            {
+              "slug": "sambria-futbol-club",
+              "nombre": "Sambria Fútbol Club",
+              "ciudad": "Sambria, Kentucky",
+              "estadio": "Jorge M. Sambria",
+              "capacidad": 20000,
+              "fundacion": "13 de junio de 1926",
+              "plantel": null,
+              "ovr": 63,
+              "valorMercado": 57300000
+            },
+            {
+              "slug": "white-dragons-f-c",
+              "nombre": "White Dragons F.C.",
+              "ciudad": "Ciudad Dragón, New Tigers",
+              "estadio": "Dragons Estadium",
+              "capacidad": 23500,
+              "fundacion": "28 de mayo de 1940",
+              "plantel": null,
+              "ovr": 67,
+              "valorMercado": 128180000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "zirmagna",
+      "nombre": "Zirmagna",
+      "bandera": "assets/flags/zirmagna.svg",
+      "divisiones": [
+        {
+          "nivel": 1,
+          "nombre": "Primeira Divisão Zirmagna",
+          "clubes": [
+            {
+              "slug": "atletico-novahia",
+              "nombre": "Atlético Novahía",
+              "ciudad": "Nova Bahía",
+              "estadio": "Raimundo Bairao",
+              "capacidad": 55000,
+              "fundacion": "1906",
+              "plantel": 20,
+              "ovr": 78,
+              "valorMercado": 920600000
+            },
+            {
+              "slug": "defensores-zirmagna",
+              "nombre": "Defensores Zirmagna",
+              "ciudad": "Nova Bahía",
+              "estadio": "Stadio Defensorista",
+              "capacidad": 77000,
+              "fundacion": "1906",
+              "plantel": 17,
+              "ovr": 79,
+              "valorMercado": 809700000
+            },
+            {
+              "slug": "lago-unido",
+              "nombre": "Lago Unido",
+              "ciudad": "Costa Timbeira",
+              "estadio": "Estadio de las Cimas",
+              "capacidad": 35000,
+              "fundacion": "1908",
+              "plantel": null,
+              "ovr": 73,
+              "valorMercado": 182505000
+            },
+            {
+              "slug": "carnucao",
+              "nombre": "Carnução",
+              "ciudad": "São Malandro",
+              "estadio": "Gigante du Zirmagna",
+              "capacidad": 53500,
+              "fundacion": "1916",
+              "plantel": null,
+              "ovr": 77,
+              "valorMercado": 75
+            },
+            {
+              "slug": "sportivo-nautico",
+              "nombre": "Sportivo Nautico",
+              "ciudad": "Nova Bahía",
+              "estadio": "Gran Nautico",
+              "capacidad": 15000,
+              "fundacion": "1909",
+              "plantel": null,
+              "ovr": 73,
+              "valorMercado": 182505000
+            },
+            {
+              "slug": "ovai",
+              "nombre": "Ovai",
+              "ciudad": "Ovai",
+              "estadio": "Panela da Ovai",
+              "capacidad": 22100,
+              "fundacion": "1913",
+              "plantel": null,
+              "ovr": 72,
+              "valorMercado": 159720000
+            },
+            {
+              "slug": "alaveilense",
+              "nombre": "Alaveilense",
+              "ciudad": "Veilense",
+              "estadio": "Bassacuda",
+              "capacidad": 20000,
+              "fundacion": "1922",
+              "plantel": null,
+              "ovr": 69,
+              "valorMercado": 102885000
+            },
+            {
+              "slug": "daminuista-f-c",
+              "nombre": "Daminuista F.C",
+              "ciudad": "Litorai",
+              "estadio": "Eterno Curacão",
+              "capacidad": 14200,
+              "fundacion": "1928",
+              "plantel": null,
+              "ovr": 68,
+              "valorMercado": 87480000
+            },
+            {
+              "slug": "empernista-a-a",
+              "nombre": "Empernista A.A.",
+              "ciudad": "Veilense",
+              "estadio": "Orlando Xaput",
+              "capacidad": 19500,
+              "fundacion": "1949",
+              "plantel": null,
+              "ovr": 67,
+              "valorMercado": 73695000
+            },
+            {
+              "slug": "meira-rio",
+              "nombre": "Meira Rio",
+              "ciudad": "Cunçaninha",
+              "estadio": "Bautista Gianesça",
+              "capacidad": 47600,
+              "fundacion": "1907",
+              "plantel": null,
+              "ovr": 69,
+              "valorMercado": 102885000
+            },
+            {
+              "slug": "nofresta-a-c",
+              "nombre": "Nofresta A.C.",
+              "ciudad": "Veilense",
+              "estadio": "Ramon Güillerme",
+              "capacidad": 25000,
+              "fundacion": "1932",
+              "plantel": null,
+              "ovr": 67,
+              "valorMercado": 73695000
+            },
+            {
+              "slug": "filgranovense",
+              "nombre": "Filgranovense",
+              "ciudad": "Litorai",
+              "estadio": "Wanderley Batista",
+              "capacidad": 11000,
+              "fundacion": "1966",
+              "plantel": null,
+              "ovr": 68,
+              "valorMercado": 87480000
+            },
+            {
+              "slug": "imperianha",
+              "nombre": "Imperianha",
+              "ciudad": "São Malandro",
+              "estadio": "Fausto Vinicius",
+              "capacidad": 44000,
+              "fundacion": "1904",
+              "plantel": null,
+              "ovr": 67,
+              "valorMercado": 73695000
+            },
+            {
+              "slug": "sport-imperianha",
+              "nombre": "Sport Imperianha",
+              "ciudad": "São Malandro",
+              "estadio": "Rio Abeira",
+              "capacidad": 35000,
+              "fundacion": "1905",
+              "plantel": null,
+              "ovr": 67,
+              "valorMercado": 73695000
+            },
+            {
+              "slug": "litorai-f-c",
+              "nombre": "Litorai F.C.",
+              "ciudad": "Litorai",
+              "estadio": "Estadio Du Litorai",
+              "capacidad": 14000,
+              "fundacion": "1961",
+              "plantel": null,
+              "ovr": 67,
+              "valorMercado": 73695000
+            },
+            {
+              "slug": "union-macao",
+              "nombre": "Unión Macão",
+              "ciudad": "Grila Amarelha",
+              "estadio": "Irmãos Macão",
+              "capacidad": 24000,
+              "fundacion": "1935",
+              "plantel": null,
+              "ovr": 66,
+              "valorMercado": 61440000
+            },
+            {
+              "slug": "vasco-pernambio",
+              "nombre": "Vasco Pernambio",
+              "ciudad": "Pernambão",
+              "estadio": "Antonio Piláu",
+              "capacidad": 56000,
+              "fundacion": "1909",
+              "plantel": null,
+              "ovr": 66,
+              "valorMercado": 61440000
+            },
+            {
+              "slug": "permacoense",
+              "nombre": "Permacoense",
+              "ciudad": "Pernambão",
+              "estadio": "Velardo Chapão",
+              "capacidad": 48000,
+              "fundacion": "1910",
+              "plantel": null,
+              "ovr": 66,
+              "valorMercado": 61440000
+            },
+            {
+              "slug": "luxa-bahia",
+              "nombre": "Luxa Bahía",
+              "ciudad": "Costa Timbeira",
+              "estadio": "Gran Paulo Glim",
+              "capacidad": 12000,
+              "fundacion": "1921",
+              "plantel": null,
+              "ovr": 67,
+              "valorMercado": 73695000
+            },
+            {
+              "slug": "patenzha-f-c",
+              "nombre": "Patenzha F.C.",
+              "ciudad": "Grila Amarelha",
+              "estadio": "Tulio Vilançao",
+              "capacidad": 10500,
+              "fundacion": "1933",
+              "plantel": null,
+              "ovr": 64,
+              "valorMercado": 41160000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "alartela",
+      "nombre": "Alartela",
+      "bandera": "assets/flags/alartela.svg",
+      "divisiones": [
+        {
+          "nivel": 1,
+          "nombre": "Primera División",
+          "clubes": [
+            {
+              "slug": "u-de-alartela",
+              "nombre": "U. de Alartela",
+              "ciudad": "Montefaro",
+              "estadio": "Estadio Universitario",
+              "capacidad": 65000,
+              "fundacion": "1890",
+              "plantel": 19,
+              "ovr": 78,
+              "valorMercado": 873000000
+            },
+            {
+              "slug": "club-atletico-penarol-de-alartela",
+              "nombre": "Club Atlético Peñarol de Alartela",
+              "ciudad": "Mirasoles",
+              "estadio": "Velódromo del monte",
+              "capacidad": 58000,
+              "fundacion": "1905",
+              "plantel": 25,
+              "ovr": 74,
+              "valorMercado": 552500000
+            },
+            {
+              "slug": "club-atletico-nacional-de-alartela",
+              "nombre": "Club Atlético Nacional de Alartela",
+              "ciudad": "Mirasoles",
+              "estadio": "Ricardo J. Llanos",
+              "capacidad": 54000,
+              "fundacion": "1904",
+              "plantel": 25,
+              "ovr": 74,
+              "valorMercado": 362000000
+            },
+            {
+              "slug": "atletico-minella",
+              "nombre": "Atlético Minella",
+              "ciudad": "Minella",
+              "estadio": "Armando P. Rosas",
+              "capacidad": 22000,
+              "fundacion": "1933",
+              "plantel": 22,
+              "ovr": 72,
+              "valorMercado": 362300000
+            },
+            {
+              "slug": "deportivo-mirasoles",
+              "nombre": "Deportivo Mirasoles",
+              "ciudad": "Mirasoles",
+              "estadio": "Jorge Díaz \"La puesta\"",
+              "capacidad": 21000,
+              "fundacion": "1951",
+              "plantel": 24,
+              "ovr": 69,
+              "valorMercado": 257400000
+            },
+            {
+              "slug": "tordesillas-f-c",
+              "nombre": "Tordesillas F.C",
+              "ciudad": "Montefaro",
+              "estadio": "Juan Tordesillas",
+              "capacidad": 19000,
+              "fundacion": "1984",
+              "plantel": 21,
+              "ovr": 67,
+              "valorMercado": 73500000
+            },
+            {
+              "slug": "rembista-c-d",
+              "nombre": "Rembista C.D",
+              "ciudad": "Guillanas",
+              "estadio": "Pedro A. Fagundez",
+              "capacidad": 12000,
+              "fundacion": "1955",
+              "plantel": 24,
+              "ovr": 67,
+              "valorMercado": 73300000
+            },
+            {
+              "slug": "baldamiras-c-a",
+              "nombre": "Baldamiras C.A",
+              "ciudad": "Baldamiras",
+              "estadio": "La baldama",
+              "capacidad": 24000,
+              "fundacion": "1928",
+              "plantel": 23,
+              "ovr": 70,
+              "valorMercado": 264900000
+            },
+            {
+              "slug": "union-de-guillanas",
+              "nombre": "Unión de Guillanas",
+              "ciudad": "Guillanas",
+              "estadio": "Benicio Gutierrez",
+              "capacidad": 19000,
+              "fundacion": "1947",
+              "plantel": 22,
+              "ovr": 69,
+              "valorMercado": 131580000
+            },
+            {
+              "slug": "c-a-turinas",
+              "nombre": "C.A. Turinas",
+              "ciudad": "Carimba",
+              "estadio": "Manuel Borras",
+              "capacidad": 18000,
+              "fundacion": "1928",
+              "plantel": 22,
+              "ovr": 65,
+              "valorMercado": 55700000
+            },
+            {
+              "slug": "huracan-de-carimba",
+              "nombre": "Huracán de Carimba",
+              "ciudad": "Carimba",
+              "estadio": "Palacio Alvear",
+              "capacidad": 41000,
+              "fundacion": "1909",
+              "plantel": 24,
+              "ovr": 69,
+              "valorMercado": 173270000
+            },
+            {
+              "slug": "montefaro-ac",
+              "nombre": "Montefaro AC",
+              "ciudad": "Montefaro",
+              "estadio": "Felipe Lonosstro",
+              "capacidad": 13000,
+              "fundacion": "1977",
+              "plantel": 21,
+              "ovr": 64,
+              "valorMercado": 23200000
+            },
+            {
+              "slug": "douglas-kenig",
+              "nombre": "Douglas Kenig",
+              "ciudad": "Carimba",
+              "estadio": "Pablo Grisales",
+              "capacidad": 14000,
+              "fundacion": "1966",
+              "plantel": 20,
+              "ovr": 65,
+              "valorMercado": 135700000
+            },
+            {
+              "slug": "maberra-wanderers",
+              "nombre": "Maberra Wanderers",
+              "ciudad": "Minella",
+              "estadio": "Antonio Gulla",
+              "capacidad": 31000,
+              "fundacion": "1914",
+              "plantel": null,
+              "ovr": 65,
+              "valorMercado": 50625000
+            },
+            {
+              "slug": "a-montefaro",
+              "nombre": "A. Montefaro",
+              "ciudad": "Montefaro",
+              "estadio": "Heraldo Martinez",
+              "capacidad": 32000,
+              "fundacion": "1916",
+              "plantel": 22,
+              "ovr": 67,
+              "valorMercado": 55470000
+            },
+            {
+              "slug": "alfas-c-d",
+              "nombre": "Alfas C.D",
+              "ciudad": "Guillanas",
+              "estadio": "Juan Rizzi \"La Cueva\"",
+              "capacidad": 26000,
+              "fundacion": "1925",
+              "plantel": 24,
+              "ovr": 66,
+              "valorMercado": 50800000
+            },
+            {
+              "slug": "sportivo-fillar",
+              "nombre": "Sportivo Fillar",
+              "ciudad": "Carimba",
+              "estadio": "Humberto Rosales",
+              "capacidad": 41000,
+              "fundacion": "1919",
+              "plantel": 21,
+              "ovr": 66,
+              "valorMercado": 46460000
+            },
+            {
+              "slug": "elfeme-c-d",
+              "nombre": "Elfeme C.D.",
+              "ciudad": "Guillanas",
+              "estadio": "Dardo Trazzo",
+              "capacidad": 16000,
+              "fundacion": "1934",
+              "plantel": 22,
+              "ovr": 65,
+              "valorMercado": 25750000
+            }
+          ]
+        },
+        {
+          "nivel": 2,
+          "nombre": "Segunda División",
+          "clubes": [
+            {
+              "slug": "9-de-agosto",
+              "nombre": "9 de agosto",
+              "ciudad": "Carimba",
+              "estadio": "Estadio Munic. de Carimba",
+              "capacidad": 17000,
+              "fundacion": "1960",
+              "plantel": null,
+              "ovr": 60,
+              "valorMercado": 15000000
+            },
+            {
+              "slug": "9-de-noviembre",
+              "nombre": "9 de noviembre",
+              "ciudad": "Carimba",
+              "estadio": "Estadio Munic. de Carimba",
+              "capacidad": 17000,
+              "fundacion": "1960",
+              "plantel": null,
+              "ovr": 55,
+              "valorMercado": 1875000
+            },
+            {
+              "slug": "alarteleanos-juniors",
+              "nombre": "Alarteleanos Juniors",
+              "ciudad": "Montefaro",
+              "estadio": "Norberto Galusczi",
+              "capacidad": 13000,
+              "fundacion": "1925",
+              "plantel": null,
+              "ovr": 61,
+              "valorMercado": 19965000
+            },
+            {
+              "slug": "atletico-amparo",
+              "nombre": "Atlético Amparo",
+              "ciudad": "Guillanas",
+              "estadio": "Mauro Montessi",
+              "capacidad": 11000,
+              "fundacion": "1931",
+              "plantel": null,
+              "ovr": 61,
+              "valorMercado": 19965000
+            },
+            {
+              "slug": "bambas-national-football",
+              "nombre": "Bambas National Football",
+              "ciudad": "Minella",
+              "estadio": "Estadio de La Bamba",
+              "capacidad": 14000,
+              "fundacion": "1917",
+              "plantel": null,
+              "ovr": 63,
+              "valorMercado": 32955000
+            },
+            {
+              "slug": "bisque-futbol-club",
+              "nombre": "Bisque Fútbol Club",
+              "ciudad": "Montefaro",
+              "estadio": "Fermin Varela",
+              "capacidad": 9000,
+              "fundacion": "1980",
+              "plantel": null,
+              "ovr": 61,
+              "valorMercado": 19965000
+            },
+            {
+              "slug": "carmin-asociacion-civil",
+              "nombre": "Carmin Asociación Civil",
+              "ciudad": "Carimba",
+              "estadio": "Estadio CCC",
+              "capacidad": 13000,
+              "fundacion": "1965",
+              "plantel": null,
+              "ovr": 60,
+              "valorMercado": 15000000
+            },
+            {
+              "slug": "cumillas-futbol-club",
+              "nombre": "Cumillas Fútbol Club",
+              "ciudad": "Mirasoles",
+              "estadio": "Armando Ital",
+              "capacidad": 14000,
+              "fundacion": "1975",
+              "plantel": null,
+              "ovr": 61,
+              "valorMercado": 19965000
+            },
+            {
+              "slug": "diaspora-athletic",
+              "nombre": "Diáspora Athletic",
+              "ciudad": "Montefaro",
+              "estadio": "Estadio del Negro",
+              "capacidad": 18000,
+              "fundacion": "1950",
+              "plantel": null,
+              "ovr": 63,
+              "valorMercado": 32955000
+            },
+            {
+              "slug": "deportes-mirasol",
+              "nombre": "Deportes Mirasol",
+              "ciudad": "Mirasoles",
+              "estadio": "La conejera",
+              "capacidad": 10000,
+              "fundacion": "1982",
+              "plantel": null,
+              "ovr": 55,
+              "valorMercado": 1875000
+            },
+            {
+              "slug": "ecrisales-asociacion-dep",
+              "nombre": "Ecrisales Asociación Dep.",
+              "ciudad": "Minella",
+              "estadio": "Estadio Cristal",
+              "capacidad": 8000,
+              "fundacion": "1999",
+              "plantel": null,
+              "ovr": 62,
+              "valorMercado": 25920000
+            },
+            {
+              "slug": "guillanas-sociedad-de-dep",
+              "nombre": "Guillanas Sociedad de Dep.",
+              "ciudad": "Guillanas",
+              "estadio": "Fausto Boritz",
+              "capacidad": 9000,
+              "fundacion": "2001",
+              "plantel": null,
+              "ovr": 58,
+              "valorMercado": 7680000
+            },
+            {
+              "slug": "huracan-de-mirasoles",
+              "nombre": "Huracán de Mirasoles",
+              "ciudad": "Mirasoles",
+              "estadio": "Julio M. Pastore",
+              "capacidad": 11000,
+              "fundacion": "1978",
+              "plantel": null,
+              "ovr": 59,
+              "valorMercado": 10935000
+            },
+            {
+              "slug": "montes-del-faro-a-c",
+              "nombre": "Montes del Faro A.C.",
+              "ciudad": "Montefaro",
+              "estadio": "Carlos Pietro",
+              "capacidad": 11000,
+              "fundacion": "1982",
+              "plantel": null,
+              "ovr": 54,
+              "valorMercado": 960000
+            },
+            {
+              "slug": "sol-de-alartela",
+              "nombre": "Sol de Alartela",
+              "ciudad": "Montefaro",
+              "estadio": "Estadio del Sol",
+              "capacidad": 12000,
+              "fundacion": "1964",
+              "plantel": null,
+              "ovr": 62,
+              "valorMercado": 25920000
+            },
+            {
+              "slug": "tristan-mateo",
+              "nombre": "Tristán Mateo",
+              "ciudad": "Minella",
+              "estadio": "Fernando Mateo",
+              "capacidad": 17000,
+              "fundacion": "1955",
+              "plantel": null,
+              "ovr": 58,
+              "valorMercado": 7680000
+            },
+            {
+              "slug": "villa-mansur-club-atletico",
+              "nombre": "Villa Mansur Club Atlético",
+              "ciudad": "Mirasoles",
+              "estadio": "Villa Bonita",
+              "capacidad": 13000,
+              "fundacion": "1945",
+              "plantel": null,
+              "ovr": 62,
+              "valorMercado": 25920000
+            },
+            {
+              "slug": "zarza-athletic-club",
+              "nombre": "Zarza Athletic Club",
+              "ciudad": "Carimba",
+              "estadio": "El zarzodromo",
+              "capacidad": 5000,
+              "fundacion": "2015",
+              "plantel": null,
+              "ovr": 59,
+              "valorMercado": 10935000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "pasburgo",
+      "nombre": "Pasburgo",
+      "bandera": "assets/flags/pasburgo.svg",
+      "divisiones": [
+        {
+          "nivel": 1,
+          "nombre": "Superlig Pasburg",
+          "clubes": [
+            {
+              "slug": "01-ciprovska-fotbolti-klub",
+              "nombre": "01. Ciprovska Fótbolti Klub",
+              "ciudad": null,
+              "estadio": null,
+              "capacidad": 44000,
+              "fundacion": "22 de abril de 1901",
+              "plantel": null,
+              "ovr": 71,
+              "valorMercado": 138915000
+            },
+            {
+              "slug": "arsenal-veut-fotbolti-klub",
+              "nombre": "Arsenal Veút Fótbolti Klub",
+              "ciudad": null,
+              "estadio": null,
+              "capacidad": 32000,
+              "fundacion": "8 de septiembre de 1954",
+              "plantel": null,
+              "ovr": 68,
+              "valorMercado": 87480000
+            },
+            {
+              "slug": "atou-klub-braspor",
+              "nombre": "ATOU Klub Braspór",
+              "ciudad": null,
+              "estadio": null,
+              "capacidad": 46000,
+              "fundacion": "28 de mayo de 1941",
+              "plantel": null,
+              "ovr": 70,
+              "valorMercado": 120000000
+            },
+            {
+              "slug": "augthenesburg",
+              "nombre": "Augthenesburg",
+              "ciudad": null,
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": null,
+              "plantel": null,
+              "ovr": 63,
+              "valorMercado": 32955000
+            },
+            {
+              "slug": "deportiv-razer",
+              "nombre": "Deportiv Razer",
+              "ciudad": null,
+              "estadio": null,
+              "capacidad": 42000,
+              "fundacion": "17 de julio de 1904",
+              "plantel": null,
+              "ovr": 70,
+              "valorMercado": 120000000
+            },
+            {
+              "slug": "dynamo-andaiknoven-klub",
+              "nombre": "Dynamo Andaiknoven Klub",
+              "ciudad": null,
+              "estadio": "Olimpyis'kyy Stadion Andaiknoven",
+              "capacidad": 28000,
+              "fundacion": "1951",
+              "plantel": null,
+              "ovr": 64,
+              "valorMercado": 41160000
+            },
+            {
+              "slug": "felag-deportiv-zarevsyanka",
+              "nombre": "Félag Deportiv Zarevsyanka",
+              "ciudad": null,
+              "estadio": "Barysh Tsentr Arena",
+              "capacidad": 12000,
+              "fundacion": "1985",
+              "plantel": null,
+              "ovr": 65,
+              "valorMercado": 50625000
+            },
+            {
+              "slug": "fotbolta-klub-hamtraitch-88",
+              "nombre": "Fótbolta Klub Hämtraitch 88",
+              "ciudad": null,
+              "estadio": "Meister-Arena",
+              "capacidad": 28000,
+              "fundacion": "1888",
+              "plantel": null,
+              "ovr": 69,
+              "valorMercado": 102885000
+            },
+            {
+              "slug": "fotboltasamband-doripkya-doripye",
+              "nombre": "Fótboltasamband Doripkya Doripye",
+              "ciudad": null,
+              "estadio": null,
+              "capacidad": 35000,
+              "fundacion": "30 de junio de 1982",
+              "plantel": null,
+              "ovr": 67,
+              "valorMercado": 73695000
+            },
+            {
+              "slug": "fotbolti-klub-marsovska",
+              "nombre": "Fótbolti Klub Marsovskâ",
+              "ciudad": null,
+              "estadio": "Dovska Park",
+              "capacidad": 22000,
+              "fundacion": "1911",
+              "plantel": null,
+              "ovr": 73,
+              "valorMercado": 182505000
+            },
+            {
+              "slug": "kas",
+              "nombre": "KAS",
+              "ciudad": null,
+              "estadio": "Stadion KAS",
+              "capacidad": 18000,
+              "fundacion": "1928",
+              "plantel": null,
+              "ovr": 66,
+              "valorMercado": 61440000
+            },
+            {
+              "slug": "katsana-football-klub",
+              "nombre": "Katsana Football Klub",
+              "ciudad": null,
+              "estadio": "Katsana Arena",
+              "capacidad": 8000,
+              "fundacion": "1997",
+              "plantel": null,
+              "ovr": 71,
+              "valorMercado": 138915000
+            },
+            {
+              "slug": "klubovna-doufat",
+              "nombre": "Klubovna Doufat",
+              "ciudad": null,
+              "estadio": "Park Dunna Trigal",
+              "capacidad": 26000,
+              "fundacion": "1937",
+              "plantel": null,
+              "ovr": 66,
+              "valorMercado": 61440000
+            },
+            {
+              "slug": "lokomotiv-sozhgli",
+              "nombre": "Lokomotiv Sozhgli",
+              "ciudad": null,
+              "estadio": null,
+              "capacidad": 38000,
+              "fundacion": "11 de enero de 1921",
+              "plantel": null,
+              "ovr": 68,
+              "valorMercado": 87480000
+            },
+            {
+              "slug": "loshadi-klub-pasburg",
+              "nombre": "Loshadi Klub Pasburg",
+              "ciudad": null,
+              "estadio": "Olimpika Stade Loshadi",
+              "capacidad": 30000,
+              "fundacion": "1905",
+              "plantel": null,
+              "ovr": 65,
+              "valorMercado": 50625000
+            },
+            {
+              "slug": "strakhovaniye-vona-klub",
+              "nombre": "Strakhovaniye Vona Klub",
+              "ciudad": null,
+              "estadio": "Vona Arena",
+              "capacidad": 18000,
+              "fundacion": "2001",
+              "plantel": null,
+              "ovr": 69,
+              "valorMercado": 102885000
+            },
+            {
+              "slug": "totspor",
+              "nombre": "Totspor",
+              "ciudad": null,
+              "estadio": "Totspor Arena",
+              "capacidad": 25000,
+              "fundacion": "1953",
+              "plantel": null,
+              "ovr": 67,
+              "valorMercado": 73695000
+            },
+            {
+              "slug": "voratas-tyumen-football-klub",
+              "nombre": "Voratas Tyumen Football Klub",
+              "ciudad": "Andojbah, Andojbah",
+              "estadio": "Stadion Geolog",
+              "capacidad": 37500,
+              "fundacion": "1944",
+              "plantel": 22,
+              "ovr": 68,
+              "valorMercado": 107800000
+            }
+          ]
+        },
+        {
+          "nivel": 2,
+          "nombre": "Superlig 2. Pasburg",
+          "clubes": [
+            {
+              "slug": "romanes-af-sozhgli",
+              "nombre": "Romanes af Sozhgli",
+              "ciudad": "Veút Austurland",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1919",
+              "plantel": null,
+              "ovr": 60,
+              "valorMercado": 15000000
+            },
+            {
+              "slug": "p-f-c-mevska-traska",
+              "nombre": "P.F.C. Mevska Traska",
+              "ciudad": "Andojbah",
+              "estadio": "Pasburg Airlines Stadion",
+              "capacidad": 26000,
+              "fundacion": "1930",
+              "plantel": null,
+              "ovr": 61,
+              "valorMercado": 19965000
+            },
+            {
+              "slug": "aldinkach-pasburguians",
+              "nombre": "Aldinkach Pasburguians",
+              "ciudad": "Augthenesburg",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1922",
+              "plantel": null,
+              "ovr": 58,
+              "valorMercado": 7680000
+            },
+            {
+              "slug": "cosmopolitan-klub-af-pasburg",
+              "nombre": "Cosmopolitan Klub af Pasburg",
+              "ciudad": "Cosmopotan Tarat",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1969",
+              "plantel": null,
+              "ovr": 57,
+              "valorMercado": 5145000
+            },
+            {
+              "slug": "deportiv-daklaj",
+              "nombre": "Deportiv Daklaj",
+              "ciudad": "Daklaj",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1906",
+              "plantel": null,
+              "ovr": 60,
+              "valorMercado": 15000000
+            },
+            {
+              "slug": "dynamo-anderlaikvan",
+              "nombre": "Dynamo Anderlaikvan",
+              "ciudad": "Andojbah",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1933",
+              "plantel": null,
+              "ovr": 62,
+              "valorMercado": 25920000
+            },
+            {
+              "slug": "fialove-labute-f-c",
+              "nombre": "Fialové Labutě F.C.",
+              "ciudad": "Nagul",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1930",
+              "plantel": null,
+              "ovr": 61,
+              "valorMercado": 19965000
+            },
+            {
+              "slug": "gomoir-f-c",
+              "nombre": "Góðmóðir F.C.",
+              "ciudad": "Andojbah",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1939",
+              "plantel": null,
+              "ovr": 57,
+              "valorMercado": 5145000
+            },
+            {
+              "slug": "hearts-af-devushka",
+              "nombre": "Hearts af Devushka",
+              "ciudad": "Sigringijh",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1968",
+              "plantel": null,
+              "ovr": 52,
+              "valorMercado": 120000
+            },
+            {
+              "slug": "kab",
+              "nombre": "KAB",
+              "ciudad": "Barysh Tsentr",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1928",
+              "plantel": null,
+              "ovr": 60,
+              "valorMercado": 15000000
+            },
+            {
+              "slug": "klub-razer",
+              "nombre": "Klub Razer",
+              "ciudad": "Daklaj",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1938",
+              "plantel": null,
+              "ovr": 52,
+              "valorMercado": 120000
+            },
+            {
+              "slug": "kolan-klub",
+              "nombre": "Kolan Klub",
+              "ciudad": "Veút Austurland",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1903",
+              "plantel": null,
+              "ovr": 59,
+              "valorMercado": 10935000
+            },
+            {
+              "slug": "loggjafaring-klub",
+              "nombre": "Löggjafarþing Klub",
+              "ciudad": "Augthenesburg",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1907",
+              "plantel": null,
+              "ovr": 61,
+              "valorMercado": 19965000
+            },
+            {
+              "slug": "maglos-f-c",
+              "nombre": "Máglos F.C.",
+              "ciudad": "Cosmopotan Tarat",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1961",
+              "plantel": null,
+              "ovr": 61,
+              "valorMercado": 19965000
+            },
+            {
+              "slug": "north-styrjaldar-ernir-football-klub",
+              "nombre": "North Styrjaldar Ernir Football Klub",
+              "ciudad": "Hämtraitch",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1897",
+              "plantel": null,
+              "ovr": 56,
+              "valorMercado": 3240000
+            },
+            {
+              "slug": "piwoducha-klub",
+              "nombre": "Piwoducha Klub",
+              "ciudad": "Sigringijh",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1993",
+              "plantel": null,
+              "ovr": 61,
+              "valorMercado": 19965000
+            },
+            {
+              "slug": "purytanskaja-klub-burhundyja",
+              "nombre": "Purytanskaja Klub Burhundyja",
+              "ciudad": "Nagul",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1955",
+              "plantel": null,
+              "ovr": 60,
+              "valorMercado": 15000000
+            },
+            {
+              "slug": "sharpakes-f-c",
+              "nombre": "Sharpakes F.C.",
+              "ciudad": "Augthenesburg",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1970",
+              "plantel": null,
+              "ovr": 55,
+              "valorMercado": 1875000
+            },
+            {
+              "slug": "skola-fotbolta-og-irottir-veut",
+              "nombre": "Skóla Fótbolta og Íþróttir Veút",
+              "ciudad": "Veút Tsentr",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1981",
+              "plantel": null,
+              "ovr": 54,
+              "valorMercado": 960000
+            },
+            {
+              "slug": "torpedo-veut",
+              "nombre": "Torpedo Veút",
+              "ciudad": "Veút Tsentr",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1948",
+              "plantel": null,
+              "ovr": 60,
+              "valorMercado": 15000000
+            },
+            {
+              "slug": "turich-geislum",
+              "nombre": "Turich Geislum",
+              "ciudad": "Barysh Tsentr",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1899",
+              "plantel": null,
+              "ovr": 58,
+              "valorMercado": 7680000
+            },
+            {
+              "slug": "zoloto-klub",
+              "nombre": "Zoloto Klub",
+              "ciudad": "Augthenesburg",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1940",
+              "plantel": null,
+              "ovr": 62,
+              "valorMercado": 25920000
+            }
+          ]
+        },
+        {
+          "nivel": 3,
+          "nombre": "Superlig 3. Pasburg",
+          "clubes": [
+            {
+              "slug": "gorod-y-s-en-klub",
+              "nombre": "Gorod'y's en Klub",
+              "ciudad": "Augthenesburg",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1980",
+              "plantel": null,
+              "ovr": 50,
+              "valorMercado": 5000000
+            },
+            {
+              "slug": "lutein-klub",
+              "nombre": "Luteín Klub",
+              "ciudad": "Daklaj",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1976",
+              "plantel": null,
+              "ovr": 50,
+              "valorMercado": 5000000
+            },
+            {
+              "slug": "veut-dyr-f-c",
+              "nombre": "Veút Dýrð F.C.",
+              "ciudad": "Veút Vestur",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1954",
+              "plantel": null,
+              "ovr": 41,
+              "valorMercado": 5000000
+            },
+            {
+              "slug": "fellibyl-klub",
+              "nombre": "Fellibyl Klub",
+              "ciudad": "Andojbah",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1934",
+              "plantel": null,
+              "ovr": 47,
+              "valorMercado": 5000000
+            },
+            {
+              "slug": "recali-klub",
+              "nombre": "Recalí Klub",
+              "ciudad": "Nagul",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1987",
+              "plantel": null,
+              "ovr": 50,
+              "valorMercado": 5000000
+            },
+            {
+              "slug": "natsional-klub-af-pasburg",
+              "nombre": "Natsional Klub af Pasburg",
+              "ciudad": "Augthenesburg",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1907",
+              "plantel": null,
+              "ovr": 41,
+              "valorMercado": 5000000
+            },
+            {
+              "slug": "f-c-casnavar",
+              "nombre": "F.C. Casnavar",
+              "ciudad": "Cosmopotan Tarat",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "2000",
+              "plantel": null,
+              "ovr": 50,
+              "valorMercado": 5000000
+            },
+            {
+              "slug": "vassen-pilk-klub",
+              "nombre": "Vassen Pilk Klub",
+              "ciudad": "Barysh Tsentr",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1993",
+              "plantel": null,
+              "ovr": 42,
+              "valorMercado": 5000000
+            },
+            {
+              "slug": "saint-issakesen",
+              "nombre": "Saint Issakesen",
+              "ciudad": "Barysh Tsentr",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1961",
+              "plantel": null,
+              "ovr": 44,
+              "valorMercado": 5000000
+            },
+            {
+              "slug": "riddara-sozhgli",
+              "nombre": "Riddara Sozhgli",
+              "ciudad": "Veút Austurland",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1979",
+              "plantel": null,
+              "ovr": 41,
+              "valorMercado": 5000000
+            },
+            {
+              "slug": "turich-turich-klub",
+              "nombre": "Turich Turich Klub",
+              "ciudad": "Barysh Tsentr",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1988",
+              "plantel": null,
+              "ovr": 44,
+              "valorMercado": 5000000
+            },
+            {
+              "slug": "racing-klub",
+              "nombre": "Racing Klub",
+              "ciudad": "Nagul",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1945",
+              "plantel": null,
+              "ovr": 44,
+              "valorMercado": 5000000
+            },
+            {
+              "slug": "ack-chistka",
+              "nombre": "ACK Chistka",
+              "ciudad": "Augthenesburg",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "1969",
+              "plantel": null,
+              "ovr": 45,
+              "valorMercado": 5000000
+            },
+            {
+              "slug": "pohose-klub",
+              "nombre": "Pohose Klub",
+              "ciudad": "Andojbah",
+              "estadio": null,
+              "capacidad": null,
+              "fundacion": "2008",
+              "plantel": null,
+              "ovr": 48,
+              "valorMercado": 5000000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "jopan",
+      "nombre": "Jopán",
+      "bandera": "assets/flags/jopan.svg",
+      "divisiones": [
+        {
+          "nivel": 1,
+          "nombre": "Liga Jopan 1º Division (Jopan Ligue 1)",
+          "clubes": [
+            {
+              "slug": "al-toawa",
+              "nombre": "Al-Toawa",
+              "ciudad": "Amir",
+              "estadio": "Alhamed Toawa",
+              "capacidad": 22000,
+              "fundacion": null,
+              "plantel": null,
+              "ovr": 62,
+              "valorMercado": 25920000
+            },
+            {
+              "slug": "fukuoka-chiba",
+              "nombre": "Fukuoka Chiba",
+              "ciudad": "Fukuo",
+              "estadio": "Chibaku",
+              "capacidad": 40000,
+              "fundacion": "22 de marzo de 1905",
+              "plantel": null,
+              "ovr": 70,
+              "valorMercado": 120000000
+            },
+            {
+              "slug": "haidro-fuma",
+              "nombre": "Haidro Füma",
+              "ciudad": "Füma",
+              "estadio": "Stade Haidroshima",
+              "capacidad": 70000,
+              "fundacion": "29 de marzo de 1905",
+              "plantel": null,
+              "ovr": 65,
+              "valorMercado": 50625000
+            },
+            {
+              "slug": "hiroshe-kobe",
+              "nombre": "Hiroshe Kobe",
+              "ciudad": "Hiroshe",
+              "estadio": "Kobe Stade",
+              "capacidad": 33000,
+              "fundacion": "26 de marzo de 1905",
+              "plantel": null,
+              "ovr": 68,
+              "valorMercado": 87480000
+            },
+            {
+              "slug": "jinju-fuma",
+              "nombre": "Jinju Füma",
+              "ciudad": "Füma",
+              "estadio": "Jinju Stade",
+              "capacidad": 21000,
+              "fundacion": "27 de marzo 1905",
+              "plantel": null,
+              "ovr": 66,
+              "valorMercado": 61440000
+            },
+            {
+              "slug": "konoka-f-c",
+              "nombre": "Konoka F.C.",
+              "ciudad": "Kyto",
+              "estadio": "Mount Dream Stado",
+              "capacidad": 21000,
+              "fundacion": "23 de marzo de 1905",
+              "plantel": 25,
+              "ovr": 66,
+              "valorMercado": 63000000
+            },
+            {
+              "slug": "korazano",
+              "nombre": "Korazano",
+              "ciudad": "Kyto",
+              "estadio": "Highest Place",
+              "capacidad": 12500,
+              "fundacion": "5 de abril de 1905",
+              "plantel": 23,
+              "ovr": 66,
+              "valorMercado": 61440000
+            },
+            {
+              "slug": "kyokai",
+              "nombre": "Kyōkai",
+              "ciudad": "Füma",
+              "estadio": "Kyōkaichou",
+              "capacidad": 20000,
+              "fundacion": "19 de marzo de 1905",
+              "plantel": 17,
+              "ovr": 68,
+              "valorMercado": 114800000
+            },
+            {
+              "slug": "meiwan-ho",
+              "nombre": "Meiwan-Ho",
+              "ciudad": "Lin",
+              "estadio": "Hong Ming Meiwan",
+              "capacidad": 19000,
+              "fundacion": null,
+              "plantel": 20,
+              "ovr": 66,
+              "valorMercado": 61440000
+            },
+            {
+              "slug": "nitodoke",
+              "nombre": "Nitodoke",
+              "ciudad": "Kyto",
+              "estadio": "Nazahara Stado",
+              "capacidad": 11000,
+              "fundacion": "7 de abril de 1905",
+              "plantel": 21,
+              "ovr": 68,
+              "valorMercado": 60000000
+            },
+            {
+              "slug": "nouping-young",
+              "nombre": "Nouping Young",
+              "ciudad": "Wan Ling",
+              "estadio": "Niunpin Stado",
+              "capacidad": 14000,
+              "fundacion": "12 de abril de 1905",
+              "plantel": 19,
+              "ovr": 67,
+              "valorMercado": 62800000
+            },
+            {
+              "slug": "blue-lock-project",
+              "nombre": "Blue Lock Project",
+              "ciudad": "Kyto",
+              "estadio": "Blue Lock Stade",
+              "capacidad": 17500,
+              "fundacion": "5 de abril de 1905",
+              "plantel": 22,
+              "ovr": 66,
+              "valorMercado": 141605000
+            },
+            {
+              "slug": "pim-won",
+              "nombre": "Pim Won",
+              "ciudad": "Wan Ling",
+              "estadio": "Skydive",
+              "capacidad": 24200,
+              "fundacion": "15 de marzo 1905",
+              "plantel": 22,
+              "ovr": 67,
+              "valorMercado": 75100000
+            },
+            {
+              "slug": "shinobin-city",
+              "nombre": "Shinobin City",
+              "ciudad": "Kyto",
+              "estadio": "Namikaza",
+              "capacidad": 19000,
+              "fundacion": "13 de abril de 1905",
+              "plantel": 25,
+              "ovr": 65,
+              "valorMercado": 45810000
+            },
+            {
+              "slug": "wuukong-low",
+              "nombre": "Wuukong Low",
+              "ciudad": "Lin",
+              "estadio": "Monkey Goku",
+              "capacidad": 12200,
+              "fundacion": "14 de abril de 1905",
+              "plantel": null,
+              "ovr": 66,
+              "valorMercado": 107700000
+            },
+            {
+              "slug": "yaeger-boys",
+              "nombre": "Yaeger Boys",
+              "ciudad": "Kyto",
+              "estadio": "Titan Wall",
+              "capacidad": 14500,
+              "fundacion": "11 de abril de 1905",
+              "plantel": 22,
+              "ovr": 67,
+              "valorMercado": 37800000
+            },
+            {
+              "slug": "zao-zun",
+              "nombre": "Zao Zun",
+              "ciudad": "Lin",
+              "estadio": "Outher Stado",
+              "capacidad": 8000,
+              "fundacion": "10 de junio de 1905",
+              "plantel": null,
+              "ovr": 66,
+              "valorMercado": 26300000
+            },
+            {
+              "slug": "zhar-ala",
+              "nombre": "Zhar-Ala",
+              "ciudad": "Amir",
+              "estadio": "Mohamed Zhar",
+              "capacidad": 20000,
+              "fundacion": null,
+              "plantel": 22,
+              "ovr": 66,
+              "valorMercado": 36400000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "liconia",
+      "nombre": "Liconia",
+      "bandera": "assets/flags/liconia.svg",
+      "divisiones": [
+        {
+          "nivel": 1,
+          "nombre": "Primera División de Liconia",
+          "clubes": [
+            {
+              "slug": "athlitikos-omilos-xenthav",
+              "nombre": "Athlitikos Omilos Xenthav",
+              "ciudad": "Vallex",
+              "estadio": "Mehemed Vartikopoulos",
+              "capacidad": 28000,
+              "fundacion": "1932",
+              "plantel": 22,
+              "ovr": 66,
+              "valorMercado": 76100000
+            },
+            {
+              "slug": "berelaseray-spor-kulubu",
+              "nombre": "Berelaseray Spor Kulübü",
+              "ciudad": "Rodov",
+              "estadio": "Grand Arena Kalskalesary",
+              "capacidad": 26300,
+              "fundacion": "1921",
+              "plantel": 22,
+              "ovr": 64,
+              "valorMercado": 21460000
+            },
+            {
+              "slug": "cratem-football-club",
+              "nombre": "Cratem Football Club",
+              "ciudad": "Tamses",
+              "estadio": "Ydyr Yilmaz",
+              "capacidad": 31500,
+              "fundacion": "1926",
+              "plantel": 24,
+              "ovr": 65,
+              "valorMercado": 54040000
+            },
+            {
+              "slug": "danozlaspor-kulubu",
+              "nombre": "Danozlaspor Kulübü",
+              "ciudad": "Rixmont",
+              "estadio": "Ignato Galanas",
+              "capacidad": 21000,
+              "fundacion": "1949",
+              "plantel": 22,
+              "ovr": 65,
+              "valorMercado": 47900000
+            },
+            {
+              "slug": "delavallex-athletic",
+              "nombre": "Delavallex Athletic",
+              "ciudad": "Vallex",
+              "estadio": "Stádico Vallex",
+              "capacidad": 45000,
+              "fundacion": null,
+              "plantel": 21,
+              "ovr": 72,
+              "valorMercado": 487900000
+            },
+            {
+              "slug": "dromitesk-athenon",
+              "nombre": "Dromitesk Athenon",
+              "ciudad": "Vallex",
+              "estadio": "Bonin Vrioni",
+              "capacidad": 30000,
+              "fundacion": "1917",
+              "plantel": 22,
+              "ovr": 64,
+              "valorMercado": 28700000
+            },
+            {
+              "slug": "fotbal-club-steaua-tamses",
+              "nombre": "Fotbal Club Steaua Tamses",
+              "ciudad": "Tamses",
+              "estadio": "Sommits Freugh",
+              "capacidad": 36700,
+              "fundacion": "1912",
+              "plantel": 22,
+              "ovr": 65,
+              "valorMercado": 22680000
+            },
+            {
+              "slug": "gotveja-futbola-skola",
+              "nombre": "Gotveja Futbola Skola",
+              "ciudad": "Rodov",
+              "estadio": "Hinzes Badussla",
+              "capacidad": 14000,
+              "fundacion": "1976",
+              "plantel": 22,
+              "ovr": 62,
+              "valorMercado": 10260000
+            },
+            {
+              "slug": "latathonaikos-leschi-podosfairo",
+              "nombre": "Latathonaikós Léschi Podósfairo",
+              "ciudad": "Kunyev",
+              "estadio": "Olympiakó Stádio Ithonan",
+              "capacidad": 40000,
+              "fundacion": "1930",
+              "plantel": 22,
+              "ovr": 67,
+              "valorMercado": 66000000
+            },
+            {
+              "slug": "lomous-football-club",
+              "nombre": "Lomous Football Club",
+              "ciudad": "Tamses",
+              "estadio": "Valerieva Stadium",
+              "capacidad": 19800,
+              "fundacion": "1947",
+              "plantel": 22,
+              "ovr": 64,
+              "valorMercado": 32200000
+            },
+            {
+              "slug": "onkarayaspor-kulubu",
+              "nombre": "Onkarayaspor Kulübü",
+              "ciudad": "Conokkles",
+              "estadio": "Onkaraya Arena",
+              "capacidad": 33000,
+              "fundacion": "1921",
+              "plantel": 22,
+              "ovr": 67,
+              "valorMercado": 88380000
+            },
+            {
+              "slug": "orus-thasselka",
+              "nombre": "Orus Thasselka",
+              "ciudad": "Rodov",
+              "estadio": "Samoil Berkovski",
+              "capacidad": 15500,
+              "fundacion": "1968",
+              "plantel": 20,
+              "ovr": 64,
+              "valorMercado": 34090000
+            },
+            {
+              "slug": "rixmont-athletic",
+              "nombre": "Rixmont Athletic",
+              "ciudad": "Rixmont",
+              "estadio": "Montaigne Stradua",
+              "capacidad": 35000,
+              "fundacion": "1913",
+              "plantel": 21,
+              "ovr": 72,
+              "valorMercado": 392200000
+            },
+            {
+              "slug": "rodov-futbola-klubs",
+              "nombre": "Rodov Futbola Klubs",
+              "ciudad": "Rodov",
+              "estadio": "Menzort Denoye",
+              "capacidad": 29400,
+              "fundacion": "1951",
+              "plantel": 24,
+              "ovr": 68,
+              "valorMercado": 200100000
+            },
+            {
+              "slug": "roztip-spor-kulubu",
+              "nombre": "Röztip Spor Kulübü",
+              "ciudad": "Astumbiel",
+              "estadio": "Gersal Iksol",
+              "capacidad": 25400,
+              "fundacion": "1917",
+              "plantel": 21,
+              "ovr": 66,
+              "valorMercado": 64700000
+            },
+            {
+              "slug": "sportive-blicalal",
+              "nombre": "Sportive Blicalal",
+              "ciudad": "Rixmont",
+              "estadio": "Tümkurt Yorulmaz",
+              "capacidad": 40000,
+              "fundacion": "1909",
+              "plantel": 24,
+              "ovr": 71,
+              "valorMercado": 393700000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "everia",
+      "nombre": "Everiá",
+      "bandera": "assets/flags/everia.svg",
+      "divisiones": [
+        {
+          "nivel": 1,
+          "nombre": "Primera División",
+          "clubes": [
+            {
+              "slug": "aguilas-futbol-club",
+              "nombre": "Águilas Fútbol Club",
+              "ciudad": "Bilirrubina",
+              "estadio": "Alberto Grisales",
+              "capacidad": 24000,
+              "fundacion": "1909",
+              "plantel": null,
+              "ovr": 68,
+              "valorMercado": 87480000
+            },
+            {
+              "slug": "alumnos-de-feri",
+              "nombre": "Alumnos de Feri",
+              "ciudad": "Feri",
+              "estadio": "Estadio Yakinara",
+              "capacidad": 17000,
+              "fundacion": "1920",
+              "plantel": null,
+              "ovr": 64,
+              "valorMercado": 41160000
+            },
+            {
+              "slug": "atletico-vayol",
+              "nombre": "Atlético Vayol",
+              "ciudad": "Vayol",
+              "estadio": "Estadio Héroes de Vayol",
+              "capacidad": 42000,
+              "fundacion": "1947",
+              "plantel": null,
+              "ovr": 60,
+              "valorMercado": 15000000
+            },
+            {
+              "slug": "cesar-guaman",
+              "nombre": "César Guaman",
+              "ciudad": "Bilirrubina",
+              "estadio": "Estadio del Olimpo",
+              "capacidad": 38000,
+              "fundacion": "1936",
+              "plantel": null,
+              "ovr": 64,
+              "valorMercado": 41160000
+            },
+            {
+              "slug": "deportivo-municipal",
+              "nombre": "Deportivo Municipal",
+              "ciudad": "Bilirrubina",
+              "estadio": "Olímpico de Everiá",
+              "capacidad": 20000,
+              "fundacion": "1909",
+              "plantel": null,
+              "ovr": 64,
+              "valorMercado": 41160000
+            },
+            {
+              "slug": "diablos-dorados",
+              "nombre": "Diablos Dorados",
+              "ciudad": "Villamar",
+              "estadio": "Estadio Municipal",
+              "capacidad": 23500,
+              "fundacion": "1938",
+              "plantel": null,
+              "ovr": 69,
+              "valorMercado": 102885000
+            },
+            {
+              "slug": "esportivo-everiano",
+              "nombre": "Esportivo Everiano",
+              "ciudad": "Bilirrubina",
+              "estadio": "Palacio del Deporte",
+              "capacidad": 19000,
+              "fundacion": "1930",
+              "plantel": null,
+              "ovr": 62,
+              "valorMercado": 25920000
+            },
+            {
+              "slug": "feri-futbol-club",
+              "nombre": "Feri Fútbol Club",
+              "ciudad": "Feri",
+              "estadio": "Estadio Armando Feri",
+              "capacidad": 22000,
+              "fundacion": "1925",
+              "plantel": null,
+              "ovr": 61,
+              "valorMercado": 19965000
+            },
+            {
+              "slug": "filiales-unidas",
+              "nombre": "Filiales Unidas",
+              "ciudad": "Villamar",
+              "estadio": "Hermanos Vargas",
+              "capacidad": 19000,
+              "fundacion": "1944",
+              "plantel": null,
+              "ovr": 61,
+              "valorMercado": 19965000
+            },
+            {
+              "slug": "garzon-atletico-club",
+              "nombre": "Garzón Atlético Club",
+              "ciudad": "Bilirrubina",
+              "estadio": "Ramón Fanny",
+              "capacidad": 26000,
+              "fundacion": "1912",
+              "plantel": null,
+              "ovr": 66,
+              "valorMercado": 61440000
+            },
+            {
+              "slug": "lucero-club-atletico",
+              "nombre": "Lucero Club Atlético",
+              "ciudad": "Feri",
+              "estadio": "Estadio de la luz",
+              "capacidad": 14000,
+              "fundacion": "1956",
+              "plantel": null,
+              "ovr": 60,
+              "valorMercado": 15000000
+            },
+            {
+              "slug": "monasterio-futbol-club",
+              "nombre": "Monasterio Fútbol Club",
+              "ciudad": "Villamar",
+              "estadio": "Frai Carlos III",
+              "capacidad": 20000,
+              "fundacion": "1900",
+              "plantel": null,
+              "ovr": 68,
+              "valorMercado": 87480000
+            },
+            {
+              "slug": "minaguilla-atletico",
+              "nombre": "Minaguilla Atlético",
+              "ciudad": "Feri",
+              "estadio": "Tito Wilmar",
+              "capacidad": 17000,
+              "fundacion": "1970",
+              "plantel": null,
+              "ovr": 69,
+              "valorMercado": 102885000
+            },
+            {
+              "slug": "namira-asociacion-deportiva",
+              "nombre": "Namira Asociación Deportiva",
+              "ciudad": "Villamar",
+              "estadio": "Estadio observatorio",
+              "capacidad": 16000,
+              "fundacion": "1925",
+              "plantel": null,
+              "ovr": 64,
+              "valorMercado": 41160000
+            },
+            {
+              "slug": "ospillet-futbol-club",
+              "nombre": "Ospillet Fútbol Club",
+              "ciudad": "Feri",
+              "estadio": "Stadio Della Ospillet",
+              "capacidad": 18000,
+              "fundacion": "1937",
+              "plantel": null,
+              "ovr": 64,
+              "valorMercado": 41160000
+            },
+            {
+              "slug": "principado-club-de-elite",
+              "nombre": "Principado Club de Elite",
+              "ciudad": "Vayol",
+              "estadio": "Campo de Matina",
+              "capacidad": 31000,
+              "fundacion": "1914",
+              "plantel": null,
+              "ovr": 68,
+              "valorMercado": 87480000
+            },
+            {
+              "slug": "real-vayol",
+              "nombre": "Real Vayol",
+              "ciudad": "Vayol",
+              "estadio": "Estadio del Rey",
+              "capacidad": 60000,
+              "fundacion": "1926",
+              "plantel": null,
+              "ovr": 68,
+              "valorMercado": 87480000
+            },
+            {
+              "slug": "vetev",
+              "nombre": "Vetev",
+              "ciudad": "Villamar",
+              "estadio": "Diego Quiñones",
+              "capacidad": 40020,
+              "fundacion": "1907",
+              "plantel": null,
+              "ovr": 65,
+              "valorMercado": 50625000
+            }
+          ]
+        },
+        {
+          "nivel": 2,
+          "nombre": "Segunda División",
+          "clubes": [
+            {
+              "slug": "ademar-futbol-club",
+              "nombre": "Ademar Fútbol Club",
+              "ciudad": "Feri",
+              "estadio": "Estadio del Mar",
+              "capacidad": 12000,
+              "fundacion": "1965",
+              "plantel": null,
+              "ovr": 59,
+              "valorMercado": 10935000
+            },
+            {
+              "slug": "alsines-deportivo-y-filial",
+              "nombre": "Alsines Deportivo y Filial",
+              "ciudad": "Villamar",
+              "estadio": "Jorge G. Alsines",
+              "capacidad": 15000,
+              "fundacion": "1972",
+              "plantel": null,
+              "ovr": 59,
+              "valorMercado": 10935000
+            },
+            {
+              "slug": "barsales-club-atletico",
+              "nombre": "Barsales Club Atlético",
+              "ciudad": "Vayol",
+              "estadio": "Estadio de la Barça",
+              "capacidad": 11000,
+              "fundacion": "1944",
+              "plantel": null,
+              "ovr": 57,
+              "valorMercado": 5145000
+            },
+            {
+              "slug": "binol-athletic-club",
+              "nombre": "Biñol Athletic Club",
+              "ciudad": "Vayol",
+              "estadio": "Jairo Pizuerra",
+              "capacidad": 9000,
+              "fundacion": "1998",
+              "plantel": null,
+              "ovr": 55,
+              "valorMercado": 1875000
+            },
+            {
+              "slug": "castas-futbol-club",
+              "nombre": "Castas Fútbol Club",
+              "ciudad": "Villamar",
+              "estadio": "Simón Palet",
+              "capacidad": 8000,
+              "fundacion": "2002",
+              "plantel": null,
+              "ovr": 58,
+              "valorMercado": 7680000
+            },
+            {
+              "slug": "cazerra-atletico",
+              "nombre": "Cazerra Atlético",
+              "ciudad": "Bilirrubina",
+              "estadio": "Estadio de la Sierra",
+              "capacidad": 6000,
+              "fundacion": "2015",
+              "plantel": null,
+              "ovr": 51,
+              "valorMercado": 15000
+            },
+            {
+              "slug": "chambo-de-everia",
+              "nombre": "Chambo de Everiá",
+              "ciudad": "Bilirrubina",
+              "estadio": "Estadio de Los Campos",
+              "capacidad": 17000,
+              "fundacion": "1987",
+              "plantel": null,
+              "ovr": 58,
+              "valorMercado": 7680000
+            },
+            {
+              "slug": "deportes-recife",
+              "nombre": "Deportes Recife",
+              "ciudad": "Feri",
+              "estadio": "El Arrecife",
+              "capacidad": 16000,
+              "fundacion": "1932",
+              "plantel": null,
+              "ovr": 57,
+              "valorMercado": 5145000
+            },
+            {
+              "slug": "deportivo-maruya",
+              "nombre": "Deportivo Maruya",
+              "ciudad": "Bilirrubina",
+              "estadio": "Julian Maidana",
+              "capacidad": 7000,
+              "fundacion": "1997",
+              "plantel": null,
+              "ovr": 54,
+              "valorMercado": 960000
+            },
+            {
+              "slug": "espelet-asociacion-atletica",
+              "nombre": "Espelet Asociación Atlética",
+              "ciudad": "Villamar",
+              "estadio": "Charles Espelet",
+              "capacidad": 9000,
+              "fundacion": "2006",
+              "plantel": null,
+              "ovr": 50,
+              "valorMercado": 5000000
+            },
+            {
+              "slug": "everianos-unidos",
+              "nombre": "Everianos Unidos",
+              "ciudad": "Bilirrubina",
+              "estadio": "Estadio Nacional",
+              "capacidad": 12000,
+              "fundacion": "1972",
+              "plantel": null,
+              "ovr": 52,
+              "valorMercado": 120000
+            },
+            {
+              "slug": "fijarro-futbol-club",
+              "nombre": "Fijarro Fútbol Club",
+              "ciudad": "Feri",
+              "estadio": "Fernando Abiles",
+              "capacidad": 5000,
+              "fundacion": "2013",
+              "plantel": null,
+              "ovr": 58,
+              "valorMercado": 7680000
+            },
+            {
+              "slug": "garete-atletico",
+              "nombre": "Garete Atletico",
+              "ciudad": "Vayol",
+              "estadio": "Dario Garete",
+              "capacidad": 9000,
+              "fundacion": "1995",
+              "plantel": null,
+              "ovr": 50,
+              "valorMercado": 5000000
+            },
+            {
+              "slug": "juscar-guaman",
+              "nombre": "Júscar Guaman",
+              "ciudad": "Bilirrubina",
+              "estadio": "Hugo Cramer",
+              "capacidad": 8000,
+              "fundacion": "1997",
+              "plantel": null,
+              "ovr": 55,
+              "valorMercado": 1875000
+            },
+            {
+              "slug": "nordeste-unido",
+              "nombre": "Nordeste Unido",
+              "ciudad": "Feri",
+              "estadio": "La resistencia",
+              "capacidad": 14000,
+              "fundacion": "1921",
+              "plantel": null,
+              "ovr": 53,
+              "valorMercado": 405000
+            },
+            {
+              "slug": "parce-futbol-club",
+              "nombre": "Parce Fútbol Club",
+              "ciudad": "Bilirrubina",
+              "estadio": "Leopoldo Remini",
+              "capacidad": 8000,
+              "fundacion": "2001",
+              "plantel": null,
+              "ovr": 52,
+              "valorMercado": 120000
+            },
+            {
+              "slug": "river-piston-sociedad-atletica",
+              "nombre": "River Piston Sociedad Atlética",
+              "ciudad": "Villamar",
+              "estadio": "Estadio Piston",
+              "capacidad": 6000,
+              "fundacion": "2009",
+              "plantel": null,
+              "ovr": 55,
+              "valorMercado": 1875000
+            },
+            {
+              "slug": "villamar-athletic",
+              "nombre": "Villamar Athletic",
+              "ciudad": "Villamar",
+              "estadio": "La Villa",
+              "capacidad": 19000,
+              "fundacion": "1938",
+              "plantel": null,
+              "ovr": 58,
+              "valorMercado": 7680000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "razu",
+      "nombre": "Razú",
+      "bandera": "assets/flags/razu.svg",
+      "divisiones": [
+        {
+          "nivel": 1,
+          "nombre": "Liga Razu 1º División",
+          "clubes": [
+            {
+              "slug": "antawara-sporting",
+              "nombre": "Antawara Sporting",
+              "ciudad": "Antawara",
+              "estadio": "Monumental de Antawara",
+              "capacidad": 42500,
+              "fundacion": "1910",
+              "plantel": null,
+              "ovr": 67,
+              "valorMercado": 73695000
+            },
+            {
+              "slug": "asociacion-sporting-diamond",
+              "nombre": "Asociacion Sporting Diamond",
+              "ciudad": "Diamond",
+              "estadio": "Gigante de Razú",
+              "capacidad": 37500,
+              "fundacion": "1908",
+              "plantel": null,
+              "ovr": 66,
+              "valorMercado": 61440000
+            },
+            {
+              "slug": "athletic-club-tigers-de-razu",
+              "nombre": "Athletic Club Tigers de Razú",
+              "ciudad": "Sarirí",
+              "estadio": "Tigers Stadium",
+              "capacidad": 18500,
+              "fundacion": "1952",
+              "plantel": null,
+              "ovr": 70,
+              "valorMercado": 120000000
+            },
+            {
+              "slug": "atletico-blanco",
+              "nombre": "Atletico Blanco",
+              "ciudad": "Diamond",
+              "estadio": "Estadio Municipal",
+              "capacidad": 11000,
+              "fundacion": "1927",
+              "plantel": null,
+              "ovr": 63,
+              "valorMercado": 32955000
+            },
+            {
+              "slug": "atletico-soya",
+              "nombre": "Atletico Soya",
+              "ciudad": "Sarirí",
+              "estadio": "Estadio Sopapeya",
+              "capacidad": 4500,
+              "fundacion": "1901",
+              "plantel": null,
+              "ovr": 60,
+              "valorMercado": 15000000
+            },
+            {
+              "slug": "club-atletico-pacha-pacha",
+              "nombre": "Club Atletico Pacha Pacha",
+              "ciudad": "Pacha",
+              "estadio": "Estadio Pacha Pacha",
+              "capacidad": 27000,
+              "fundacion": "1918",
+              "plantel": null,
+              "ovr": 66,
+              "valorMercado": 61440000
+            },
+            {
+              "slug": "club-atletico-tupac-juniors",
+              "nombre": "Club Atletico Tupac Juniors",
+              "ciudad": "Pacha",
+              "estadio": "La Tupaquera",
+              "capacidad": 15000,
+              "fundacion": "1925",
+              "plantel": null,
+              "ovr": 70,
+              "valorMercado": 120000000
+            },
+            {
+              "slug": "deportivo-sariri",
+              "nombre": "Deportivo Sarirí",
+              "ciudad": "Satiro",
+              "estadio": "Municipal de Satiro",
+              "capacidad": 48000,
+              "fundacion": "1905",
+              "plantel": null,
+              "ovr": 70,
+              "valorMercado": 120000000
+            },
+            {
+              "slug": "deportivo-silbido",
+              "nombre": "Deportivo Silbido",
+              "ciudad": "Diamond",
+              "estadio": "El Silbador",
+              "capacidad": 10000,
+              "fundacion": "1920",
+              "plantel": null,
+              "ovr": 64,
+              "valorMercado": 41160000
+            },
+            {
+              "slug": "loma-tika-football-club",
+              "nombre": "Loma Tika Football Club",
+              "ciudad": "Antawara",
+              "estadio": "Coronel Retika",
+              "capacidad": 21000,
+              "fundacion": "1914",
+              "plantel": null,
+              "ovr": 61,
+              "valorMercado": 19965000
+            },
+            {
+              "slug": "puchero-sporting",
+              "nombre": "Puchero Sporting",
+              "ciudad": "Pacha",
+              "estadio": "El Pucherito",
+              "capacidad": 13000,
+              "fundacion": "1910",
+              "plantel": null,
+              "ovr": 66,
+              "valorMercado": 61440000
+            },
+            {
+              "slug": "sportivo-pukah-rukah",
+              "nombre": "Sportivo Pukah Rukah",
+              "ciudad": "Sarirí",
+              "estadio": "Estadio Pukahs",
+              "capacidad": 12500,
+              "fundacion": "1928",
+              "plantel": null,
+              "ovr": 70,
+              "valorMercado": 120000000
+            }
+          ]
+        },
+        {
+          "nivel": 2,
+          "nombre": "Liga Razu 2º División",
+          "clubes": [
+            {
+              "slug": "manzanero-futbol-club",
+              "nombre": "Manzanero Futbol Club",
+              "ciudad": "Antawara",
+              "estadio": "La Ensaladera",
+              "capacidad": 35000,
+              "fundacion": "1920",
+              "plantel": null,
+              "ovr": 49,
+              "valorMercado": 5000000
+            },
+            {
+              "slug": "club-peya",
+              "nombre": "Club Peya",
+              "ciudad": "Sarirí",
+              "estadio": "Estadio Sopapeya",
+              "capacidad": 4500,
+              "fundacion": "1888",
+              "plantel": null,
+              "ovr": 56,
+              "valorMercado": 3240000
+            },
+            {
+              "slug": "rio-plateado",
+              "nombre": "Rio Plateado",
+              "ciudad": "Pacha",
+              "estadio": "El Monumento Plateado",
+              "capacidad": 17500,
+              "fundacion": "1915",
+              "plantel": null,
+              "ovr": 56,
+              "valorMercado": 3240000
+            },
+            {
+              "slug": "sporting-inderac",
+              "nombre": "Sporting Inderac",
+              "ciudad": "Diamond",
+              "estadio": "El Cuadrado",
+              "capacidad": 13000,
+              "fundacion": "1908",
+              "plantel": null,
+              "ovr": 56,
+              "valorMercado": 3240000
+            },
+            {
+              "slug": "club-atletico-banano",
+              "nombre": "Club Atletico Banano",
+              "ciudad": "Antawara",
+              "estadio": "La Ensaladera",
+              "capacidad": 35000,
+              "fundacion": "1905",
+              "plantel": null,
+              "ovr": 56,
+              "valorMercado": 3240000
+            },
+            {
+              "slug": "trebol-futbol-club",
+              "nombre": "Trebol Futbol Club",
+              "ciudad": "Diamond",
+              "estadio": "Teniente Poker",
+              "capacidad": 6500,
+              "fundacion": "1903",
+              "plantel": null,
+              "ovr": 56,
+              "valorMercado": 3240000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "baigorria",
+      "nombre": "Baigorria",
+      "bandera": "assets/flags/baigorria.svg",
+      "divisiones": [
+        {
+          "nivel": 1,
+          "nombre": "Primera División de Baigorria",
+          "clubes": [
+            {
+              "slug": "chocosoco-futbol-club",
+              "nombre": "Chocosoco Futbol Club",
+              "ciudad": "Soerá",
+              "estadio": "Julián Lantares",
+              "capacidad": 34000,
+              "fundacion": "15 de febrero de 1922",
+              "plantel": 20,
+              "ovr": 65,
+              "valorMercado": 51000000
+            },
+            {
+              "slug": "club-aleareante",
+              "nombre": "Club Aleareante",
+              "ciudad": "Cuchalemba",
+              "estadio": "Aleareante del Sur",
+              "capacidad": 23000,
+              "fundacion": "30 de marzo de 1936",
+              "plantel": 21,
+              "ovr": 63,
+              "valorMercado": 20580000
+            },
+            {
+              "slug": "club-baigorrial",
+              "nombre": "Club Baigórrial",
+              "ciudad": "Soerá",
+              "estadio": "Nacional de Baigorria",
+              "capacidad": 55000,
+              "fundacion": "21 de septiembre de 1926",
+              "plantel": 23,
+              "ovr": 66,
+              "valorMercado": 132300000
+            },
+            {
+              "slug": "club-cerro-colorado",
+              "nombre": "Club Cerro Colorado",
+              "ciudad": "Arize",
+              "estadio": "Blas Hernández Díaz",
+              "capacidad": 10600,
+              "fundacion": null,
+              "plantel": 18,
+              "ovr": 60,
+              "valorMercado": 7150000
+            },
+            {
+              "slug": "club-deportivo-bulolero",
+              "nombre": "Club Deportivo Bulolero",
+              "ciudad": "Villa Himbar",
+              "estadio": "Nehuén Lanin",
+              "capacidad": 16300,
+              "fundacion": "20 de diciembre de 1938",
+              "plantel": 22,
+              "ovr": 63,
+              "valorMercado": 12190000
+            },
+            {
+              "slug": "club-deportivo-oriente-minero",
+              "nombre": "Club Deportivo Oriente Minero",
+              "ciudad": "Ciudad del Oeste",
+              "estadio": "Jacobo Giron",
+              "capacidad": 15400,
+              "fundacion": "24 de mayo de 1930",
+              "plantel": 23,
+              "ovr": 61,
+              "valorMercado": 8190000
+            },
+            {
+              "slug": "club-granadina",
+              "nombre": "Club Granadina",
+              "ciudad": "Arize",
+              "estadio": "Armenio Dual Paz",
+              "capacidad": 14500,
+              "fundacion": "5 de abril de 1940",
+              "plantel": 22,
+              "ovr": 61,
+              "valorMercado": 10170000
+            },
+            {
+              "slug": "club-la-olimpica",
+              "nombre": "Club La Olímpica",
+              "ciudad": "La Esperanza",
+              "estadio": "Olímpico de Baigorria",
+              "capacidad": 22000,
+              "fundacion": null,
+              "plantel": 21,
+              "ovr": 60,
+              "valorMercado": 7650000
+            },
+            {
+              "slug": "club-rivotril-boys",
+              "nombre": "Club Rivotril Boys",
+              "ciudad": "El Bajo",
+              "estadio": "Armando Frula",
+              "capacidad": 26000,
+              "fundacion": "24 de octubre de 1969",
+              "plantel": 19,
+              "ovr": 63,
+              "valorMercado": 11270000
+            },
+            {
+              "slug": "club-trumin",
+              "nombre": "Club Trumin",
+              "ciudad": "Ciudad del Oeste",
+              "estadio": "Evaristo Martínez",
+              "capacidad": 16400,
+              "fundacion": "12 de marzo de 1951",
+              "plantel": 20,
+              "ovr": 61,
+              "valorMercado": 7240000
+            },
+            {
+              "slug": "club-verdolero",
+              "nombre": "Club Verdolero",
+              "ciudad": "Soerá",
+              "estadio": "La Verdolera",
+              "capacidad": 32000,
+              "fundacion": "10 de julio de 1931",
+              "plantel": 20,
+              "ovr": 66,
+              "valorMercado": 89600000
+            },
+            {
+              "slug": "klumolonte-futbol-club",
+              "nombre": "Klumolonte Futbol Club",
+              "ciudad": "La Esperanza",
+              "estadio": "Franco Palabalala",
+              "capacidad": 42000,
+              "fundacion": "6 de agosto de 1929",
+              "plantel": 21,
+              "ovr": 66,
+              "valorMercado": 37100000
+            }
+          ]
+        },
+        {
+          "nivel": 2,
+          "nombre": "Segunda División de Baigorria",
+          "clubes": [
+            {
+              "slug": "club-sportivo-damerso",
+              "nombre": "Club Sportivo Damerso",
+              "ciudad": "Cuchalemba",
+              "estadio": "Isidro José Pérez",
+              "capacidad": 16500,
+              "fundacion": null,
+              "plantel": null,
+              "ovr": 53,
+              "valorMercado": 405000
+            },
+            {
+              "slug": "club-galindia",
+              "nombre": "Club Galindia",
+              "ciudad": "El Bajo",
+              "estadio": "Dr. Juan Galvano",
+              "capacidad": 28000,
+              "fundacion": null,
+              "plantel": null,
+              "ovr": 54,
+              "valorMercado": 960000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "paltia",
+      "nombre": "Paltia",
+      "bandera": "assets/flags/paltia.svg",
+      "divisiones": [
+        {
+          "nivel": 1,
+          "nombre": "Liga Premier de Paltia",
+          "clubes": [
+            {
+              "slug": "academie-de-foot-badur-kul",
+              "nombre": "Academie de Foot Badur Kul",
+              "ciudad": "Worrub",
+              "estadio": "Stade Badur El-Hayat",
+              "capacidad": 23500,
+              "fundacion": "14 de abril de 1966",
+              "plantel": 24,
+              "ovr": 64,
+              "valorMercado": 34400000
+            },
+            {
+              "slug": "al-khalir-sporting-club",
+              "nombre": "Al-Khalir Sporting Club",
+              "ciudad": "Ebioketa",
+              "estadio": "Stade Al-Qamar",
+              "capacidad": 21000,
+              "fundacion": "9 de noviembre de 1971",
+              "plantel": 24,
+              "ovr": 63,
+              "valorMercado": 72100000
+            },
+            {
+              "slug": "association-sportive-tenduv",
+              "nombre": "Association Sportive Tenduv",
+              "ciudad": "Tenduv",
+              "estadio": "Stade de la Liberté",
+              "capacidad": 15000,
+              "fundacion": "22 de enero de 1969",
+              "plantel": 23,
+              "ovr": 62,
+              "valorMercado": 21630000
+            },
+            {
+              "slug": "atletic-spaijder-clubo",
+              "nombre": "Atletic Spaijder Clubo",
+              "ciudad": "Brizoville",
+              "estadio": "Spider Arena",
+              "capacidad": 22000,
+              "fundacion": "6 de septiembre de 1962",
+              "plantel": 24,
+              "ovr": 63,
+              "valorMercado": 20800000
+            },
+            {
+              "slug": "cuppe-united-football-club",
+              "nombre": "Cuppe United Football Club",
+              "ciudad": "Ebiyem",
+              "estadio": "Harbour Ground",
+              "capacidad": 27800,
+              "fundacion": "3 de mayo de 1970",
+              "plantel": 22,
+              "ovr": 62,
+              "valorMercado": 27650000
+            },
+            {
+              "slug": "jeunesse-sportive-kobylae",
+              "nombre": "Jeunesse Sportive Kobylae",
+              "ciudad": "Anetshey",
+              "estadio": "Stade Imazighen",
+              "capacidad": 43500,
+              "fundacion": "18 de febrero de 1964",
+              "plantel": 23,
+              "ovr": 63,
+              "valorMercado": 30490000
+            },
+            {
+              "slug": "kalkas-assosiativ-equipe",
+              "nombre": "Kalkas Assosiativ Equipe",
+              "ciudad": "Mgambia",
+              "estadio": "Sahra Stadium",
+              "capacidad": 35000,
+              "fundacion": "11 de junio de 1960",
+              "plantel": 24,
+              "ovr": 64,
+              "valorMercado": 62600000
+            },
+            {
+              "slug": "momilediem-sendos",
+              "nombre": "Momilediem Sendos",
+              "ciudad": "Usudo",
+              "estadio": "Stade du Baobab",
+              "capacidad": 10700,
+              "fundacion": "30 de octubre de 1973",
+              "plantel": 24,
+              "ovr": 62,
+              "valorMercado": 22640000
+            },
+            {
+              "slug": "paltia-warriors-futbol-club",
+              "nombre": "Paltia Warriors Futbol Club",
+              "ciudad": "Brizoville",
+              "estadio": "Warriors National Stadium",
+              "capacidad": 55000,
+              "fundacion": "27 de julio de 1961",
+              "plantel": 26,
+              "ovr": 66,
+              "valorMercado": 62090000
+            },
+            {
+              "slug": "silver-shields",
+              "nombre": "Silver Shields",
+              "ciudad": "Worrub",
+              "estadio": "Silver Fortress Stadium",
+              "capacidad": 20000,
+              "fundacion": "1 de marzo de 1973",
+              "plantel": 24,
+              "ovr": 62,
+              "valorMercado": 32000000
+            },
+            {
+              "slug": "stade-d-lovlue",
+              "nombre": "Stade d'Lovlue",
+              "ciudad": "Usudo",
+              "estadio": "Stade des Loups",
+              "capacidad": 14000,
+              "fundacion": "15 de agosto de 1970",
+              "plantel": 22,
+              "ovr": 62,
+              "valorMercado": 55230000
+            },
+            {
+              "slug": "tissiazom-portiv-mgambia",
+              "nombre": "Tissiazom Portiv Mgambia",
+              "ciudad": "Mgambia",
+              "estadio": "Mgambia City Estodiom",
+              "capacidad": 50000,
+              "fundacion": "20 de diciembre de 1972",
+              "plantel": 25,
+              "ovr": 66,
+              "valorMercado": 76600000
+            },
+            {
+              "slug": "walkubs-athletic-club",
+              "nombre": "Walkubs Athletic Club",
+              "ciudad": "Brizoville",
+              "estadio": "Panther Park",
+              "capacidad": 9000,
+              "fundacion": "8 de abril de 1969",
+              "plantel": 25,
+              "ovr": 64,
+              "valorMercado": 43470000
+            },
+            {
+              "slug": "wode-pivle-sporting-club",
+              "nombre": "Wode Pivle Sporting Club",
+              "ciudad": "Ebioketa",
+              "estadio": "Al-Nasr Stadium",
+              "capacidad": 18600,
+              "fundacion": "24 de septiembre de 1967",
+              "plantel": 22,
+              "ovr": 63,
+              "valorMercado": 16300000
+            },
+            {
+              "slug": "zakka-chiefs-football-club",
+              "nombre": "Zakka Chiefs Football Club",
+              "ciudad": "Ebiyem",
+              "estadio": "Chiefs Arena",
+              "capacidad": 46000,
+              "fundacion": "12 de febrero de 1974",
+              "plantel": 26,
+              "ovr": 64,
+              "valorMercado": 71340000
+            },
+            {
+              "slug": "zazarak-football-club",
+              "nombre": "Zazarak Football Club",
+              "ciudad": "Anetshey",
+              "estadio": "Scorpion Stadium",
+              "capacidad": 33000,
+              "fundacion": "17 de junio de 1963",
+              "plantel": 25,
+              "ovr": 64,
+              "valorMercado": 24390000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
